@@ -11,7 +11,7 @@
   </array>
 
   <key>CFBundleIconFile</key>
-  <string>reddcoin.icns</string>
+  <string>madoocoin.icns</string>
 
   <key>CFBundlePackageType</key>
   <string>APPL</string>
@@ -29,10 +29,10 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>Reddcoin-Qt</string>
+  <string>Madoocoin-Qt</string>
 
   <key>CFBundleIdentifier</key>
-  <string>com.reddcoin.Reddcoin-Qt</string>
+  <string>com.madoocoin.Madoocoin-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -40,10 +40,10 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>com.reddcoin.ReddcoinPayment</string>
+      <string>com.madoocoin.MadoocoinPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
-        <string>reddcoin</string>
+        <string>madoocoin</string>
       </array>
     </dict>
   </array>
@@ -52,9 +52,9 @@
   <array>
     <dict>
       <key>UTTypeIdentifier</key>
-      <string>org.reddcoin.paymentrequest</string>
+      <string>org.madoocoin.paymentrequest</string>
       <key>UTTypeDescription</key>
-      <string>Reddcoin payment request</string>
+      <string>Madoocoin payment request</string>
       <key>UTTypeConformsTo</key>
       <array>
         <string>public.data</string>
@@ -62,10 +62,10 @@
       <key>UTTypeTagSpecification</key>
       <dict>
         <key>public.mime-type</key>
-        <string>application/x-reddcoin-payment-request</string>
+        <string>application/x-madoocoin-payment-request</string>
         <key>public.filename-extension</key>
         <array>
-          <string>reddcoinpaymentrequest</string>
+          <string>madoocoinpaymentrequest</string>
         </array>
       </dict>
     </dict>
@@ -78,7 +78,7 @@
       <string>Editor</string>
       <key>LSItemContentTypes</key>
       <array>
-        <string>org.reddcoin.paymentrequest</string>
+        <string>org.madoocoin.paymentrequest</string>
       </array>
       <key>LSHandlerRank</key>
       <string>Owner</string>

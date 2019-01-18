@@ -72,12 +72,12 @@ MSYS shell:
 	mkdir miniupnpc
 	cp *.h miniupnpc/
 
-Reddcoin
+Madoocoin
 -------
 MSYS shell:
 
-	cd \reddcoin
+	cd \madoocoin
 	sh autogen.sh
 	sh configure
 	mingw32-make
-	strip reddcoind.exe
+	strip madoocoind.exe

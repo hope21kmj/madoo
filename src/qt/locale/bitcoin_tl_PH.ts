@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Reddcoin Core</source>
-        <translation>Tungkol sa Reddcoin Core</translation>
+        <source>About Madoocoin Core</source>
+        <translation>Tungkol sa Madoocoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Reddcoin Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Reddcoin Core&lt;/b&gt; bersyon</translation>
+        <source>&lt;b&gt;Madoocoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Madoocoin Core&lt;/b&gt; bersyon</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Karapatang sipi</translation>
     </message>
     <message>
-        <source>The Reddcoin Core developers</source>
-        <translation>Reddcoin Core mga nag-develop</translation>
+        <source>The Madoocoin Core developers</source>
+        <translation>Madoocoin Core mga nag-develop</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -188,8 +188,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Tumigil aplikasyon</translation>
     </message>
     <message>
-        <source>Show information about Reddcoin</source>
-        <translation>Ipakita ang impormasyon tungkol sa Reddcoin</translation>
+        <source>Show information about Madoocoin</source>
+        <translation>Ipakita ang impormasyon tungkol sa Madoocoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -240,8 +240,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Mga pagpapadala address...</translation>
     </message>
     <message>
-        <source>Reddcoin Core client</source>
-        <translation>Reddcoin Core kliente</translation>
+        <source>Madoocoin Core client</source>
+        <translation>Madoocoin Core kliente</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -260,12 +260,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
-        <source>&amp;About Reddcoin Core</source>
-        <translation>&amp;Tungkol sa Reddcoin Core</translation>
+        <source>&amp;About Madoocoin Core</source>
+        <translation>&amp;Tungkol sa Madoocoin Core</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -347,8 +347,8 @@ This product includes software developed by the OpenSSL Project for use in the O
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -358,8 +358,8 @@ This product includes software developed by the OpenSSL Project for use in the O
 <context>
     <name>Intro</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -381,8 +381,8 @@ This product includes software developed by the OpenSSL Project for use in the O
 <context>
     <name>QObject</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     </context>
 <context>
@@ -447,12 +447,12 @@ This product includes software developed by the OpenSSL Project for use in the O
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
-        <source>The Reddcoin Core developers</source>
-        <translation>Reddcoin Core mga nag-develop</translation>
+        <source>The Madoocoin Core developers</source>
+        <translation>Madoocoin Core mga nag-develop</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -534,8 +534,8 @@ This product includes software developed by the OpenSSL Project for use in the O
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Start Reddcoin Core Daemon</source>
-        <translation>Simulan ang Reddcoin Core Daemon</translation>
+        <source>Start Madoocoin Core Daemon</source>
+        <translation>Simulan ang Madoocoin Core Daemon</translation>
     </message>
     <message>
         <source>System error: </source>
@@ -590,8 +590,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Nagkaroon ng error sa pag loload ng wallet.dat: Wallet:corrupted</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Reddcoin to complete</source>
-        <translation>Kailngang mai-load muli ang wallet: Restart ang Reddcoin para makumpleto</translation>
+        <source>Wallet needed to be rewritten: restart Madoocoin to complete</source>
+        <translation>Kailngang mai-load muli ang wallet: Restart ang Madoocoin para makumpleto</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

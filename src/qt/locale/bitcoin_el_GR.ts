@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Reddcoin Core</source>
-        <translation>Σχετικά με το Reddcoin Core</translation>
+        <source>About Madoocoin Core</source>
+        <translation>Σχετικά με το Madoocoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Reddcoin Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Reddcoin Core&lt;/b&gt; έκδοση</translation>
+        <source>&lt;b&gt;Madoocoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Madoocoin Core&lt;/b&gt; έκδοση</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ This is experimental software.
         <translation>Πνευματική ιδιοκτησία</translation>
     </message>
     <message>
-        <source>The Reddcoin Core developers</source>
-        <translation>Οι προγραμματιστές του Reddcoin Core</translation>
+        <source>The Madoocoin Core developers</source>
+        <translation>Οι προγραμματιστές του Madoocoin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -103,12 +103,12 @@ This is experimental software.
         <translation>Διευθύνσεις λήψης</translation>
     </message>
     <message>
-        <source>These are your Reddcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Αυτές είναι οι Reddcoin διευθύνσεις σας για να λαμβάνετε πληρωμές. Δίνοντας μία ξεχωριστή διεύθυνση σε κάθε αποστολέα, θα μπορείτε να ελέγχετε ποιος σας πληρώνει.</translation>
+        <source>These are your Madoocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Αυτές είναι οι Madoocoin διευθύνσεις σας για να λαμβάνετε πληρωμές. Δίνοντας μία ξεχωριστή διεύθυνση σε κάθε αποστολέα, θα μπορείτε να ελέγχετε ποιος σας πληρώνει.</translation>
     </message>
     <message>
-        <source>These are your Reddcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Αυτές είναι οι Reddcoin διευθύνσεις σας για να λαμβάνετε πληρωμές. Δίνοντας μία ξεχωριστή διεύθυνση σε κάθε αποστολέα, θα μπορείτε να ελέγχετε ποιος σας πληρώνει.</translation>
+        <source>These are your Madoocoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Αυτές είναι οι Madoocoin διευθύνσεις σας για να λαμβάνετε πληρωμές. Δίνοντας μία ξεχωριστή διεύθυνση σε κάθε αποστολέα, θα μπορείτε να ελέγχετε ποιος σας πληρώνει.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -205,8 +205,8 @@ This is experimental software.
         <translation>Επιβεβαίωσε την κρυπτογραφηση του πορτοφολιού</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REDDCOINS&lt;/b&gt;!</source>
-        <translation>Προσοχη: Εαν κρυπτογραφησεις το πορτοφολι σου και χάσεις τον κωδικο σου θα χάσεις &lt;b&gt; ΟΛΑ ΣΟΥ ΤΑ REDDCOINS&lt;/b&gt;! Είσαι σίγουρος ότι θέλεις να κρυπτογραφησεις το πορτοφολι;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MADOOCOINS&lt;/b&gt;!</source>
+        <translation>Προσοχη: Εαν κρυπτογραφησεις το πορτοφολι σου και χάσεις τον κωδικο σου θα χάσεις &lt;b&gt; ΟΛΑ ΣΟΥ ΤΑ MADOOCOINS&lt;/b&gt;! Είσαι σίγουρος ότι θέλεις να κρυπτογραφησεις το πορτοφολι;</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -225,8 +225,8 @@ This is experimental software.
         <translation>Κρυπτογραφημενο πορτοφολι</translation>
     </message>
     <message>
-        <source>Reddcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your reddcoins from being stolen by malware infecting your computer.</source>
-        <translation>Το Reddcoin θα κλεισει τώρα για να τελειώσει την διαδικασία κρυπτογραφησης. Θυμησου ότι κρυπτογραφώντας το πορτοφολι σου δεν μπορείς να προστατέψεις πλήρως τα bitcoins σου από κλοπή στην περίπτωση όπου μολυνθεί ο υπολογιστής σου με κακόβουλο λογισμικό.</translation>
+        <source>Madoocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your madoocoins from being stolen by malware infecting your computer.</source>
+        <translation>Το Madoocoin θα κλεισει τώρα για να τελειώσει την διαδικασία κρυπτογραφησης. Θυμησου ότι κρυπτογραφώντας το πορτοφολι σου δεν μπορείς να προστατέψεις πλήρως τα bitcoins σου από κλοπή στην περίπτωση όπου μολυνθεί ο υπολογιστής σου με κακόβουλο λογισμικό.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -280,8 +280,8 @@ This is experimental software.
         <translation>Εμφάνισε τη γενική εικόνα του πορτοφολιού</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and reddcoin: URIs)</source>
-        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις reddcoin: )</translation>
+        <source>Request payments (generates QR codes and madoocoin: URIs)</source>
+        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις madoocoin: )</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -300,8 +300,8 @@ This is experimental software.
         <translation>Εξοδος από την εφαρμογή</translation>
     </message>
     <message>
-        <source>Show information about Reddcoin</source>
-        <translation>Εμφάνισε πληροφορίες σχετικά με Reddcoin</translation>
+        <source>Show information about Madoocoin</source>
+        <translation>Εμφάνισε πληροφορίες σχετικά με Madoocoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -348,12 +348,12 @@ This is experimental software.
         <translation>'Ανοιγμα &amp;URI</translation>
     </message>
     <message>
-        <source>Open a reddcoin: URI or payment request</source>
-        <translation>Άνοιγμα reddcoin: URI αίτησης πληρωμής</translation>
+        <source>Open a madoocoin: URI or payment request</source>
+        <translation>Άνοιγμα madoocoin: URI αίτησης πληρωμής</translation>
     </message>
     <message>
-        <source>Reddcoin Core client</source>
-        <translation>Εφαρμογή Reddcoin Core</translation>
+        <source>Madoocoin Core client</source>
+        <translation>Εφαρμογή Madoocoin Core</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -364,12 +364,12 @@ This is experimental software.
         <translation>Φόρτωση ευρετηρίου μπλοκ στον σκληρο δισκο...</translation>
     </message>
     <message>
-        <source>Send coins to a Reddcoin address</source>
-        <translation>Στείλε νομίσματα σε μια διεύθυνση reddcoin</translation>
+        <source>Send coins to a Madoocoin address</source>
+        <translation>Στείλε νομίσματα σε μια διεύθυνση madoocoin</translation>
     </message>
     <message>
-        <source>Modify configuration options for Reddcoin</source>
-        <translation>Επεργασία ρυθμισεων επιλογών για το Reddcoin</translation>
+        <source>Modify configuration options for Madoocoin</source>
+        <translation>Επεργασία ρυθμισεων επιλογών για το Madoocoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -392,8 +392,8 @@ This is experimental software.
         <translation>&amp;Επιβεβαίωση μηνύματος</translation>
     </message>
     <message>
-        <source>Reddcoin</source>
-        <translation>Reddcoin</translation>
+        <source>Madoocoin</source>
+        <translation>Madoocoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -416,12 +416,12 @@ This is experimental software.
         <translation>Κρυπτογραφήστε τα ιδιωτικά κλειδιά που ανήκουν στο πορτοφόλι σας</translation>
     </message>
     <message>
-        <source>Sign messages with your Reddcoin addresses to prove you own them</source>
+        <source>Sign messages with your Madoocoin addresses to prove you own them</source>
         <translation>Υπογράψτε ένα μήνυμα για να βεβαιώσετε πως είστε ο κάτοχος αυτής της διεύθυνσης</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Reddcoin addresses</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως ανήκει μια συγκεκριμένη διεύθυνση Reddcoin</translation>
+        <source>Verify messages to ensure they were signed with specified Madoocoin addresses</source>
+        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως ανήκει μια συγκεκριμένη διεύθυνση Madoocoin</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -444,12 +444,12 @@ This is experimental software.
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
-        <source>&amp;About Reddcoin Core</source>
-        <translation>&amp;Σχετικά με το Reddcoin Core</translation>
+        <source>&amp;About Madoocoin Core</source>
+        <translation>&amp;Σχετικά με το Madoocoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -464,12 +464,12 @@ This is experimental software.
         <translation>&amp;Επιλογές γραμμής εντολών</translation>
     </message>
     <message>
-        <source>Show the Reddcoin Core help message to get a list with possible Reddcoin command-line options</source>
-        <translation>Εμφανιση του Reddcoin-Qt μήνυματος βοήθειας για να πάρετε μια λίστα με τις πιθανές επιλογές Reddcoin γραμμής εντολών.</translation>
+        <source>Show the Madoocoin Core help message to get a list with possible Madoocoin command-line options</source>
+        <translation>Εμφανιση του Madoocoin-Qt μήνυματος βοήθειας για να πάρετε μια λίστα με τις πιθανές επιλογές Madoocoin γραμμής εντολών.</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Reddcoin network</source>
-        <translation><numerusform>%n ενεργή σύνδεση στο δίκτυο Reddcoin</numerusform><numerusform>%n ενεργές συνδέσεις στο δίκτυο Reddcoin</numerusform></translation>
+        <source>%n active connection(s) to Madoocoin network</source>
+        <translation><numerusform>%n ενεργή σύνδεση στο δίκτυο Madoocoin</numerusform><numerusform>%n ενεργές συνδέσεις στο δίκτυο Madoocoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -560,8 +560,8 @@ Address: %4
         <translation>Το πορτοφόλι είναι &lt;b&gt;κρυπτογραφημένο&lt;/b&gt; και &lt;b&gt;κλειδωμένο&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Reddcoin can no longer continue safely and will quit.</source>
-        <translation>Παρουσιάστηκε ανεπανόρθωτο σφάλμα. Το Reddcoin δεν μπορεί πλέον να συνεχίσει με ασφάλεια και θα τερματισθει.</translation>
+        <source>A fatal error occurred. Madoocoin can no longer continue safely and will quit.</source>
+        <translation>Παρουσιάστηκε ανεπανόρθωτο σφάλμα. Το Madoocoin δεν μπορεί πλέον να συνεχίσει με ασφάλεια και θα τερματισθει.</translation>
     </message>
 </context>
 <context>
@@ -825,8 +825,8 @@ Address: %4
         <translation>Η διεύθυνση "%1" βρίσκεται ήδη στο βιβλίο διευθύνσεων.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Reddcoin address.</source>
-        <translation>Η διεύθυνση "%1" δεν είναι έγκυρη Reddcoin διεύθυνση.</translation>
+        <source>The entered address "%1" is not a valid Madoocoin address.</source>
+        <translation>Η διεύθυνση "%1" δεν είναι έγκυρη Madoocoin διεύθυνση.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -863,12 +863,12 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Reddcoin Core - Command-line options</source>
-        <translation>Reddcoin Core - επιλογής γραμμής εντολών</translation>
+        <source>Madoocoin Core - Command-line options</source>
+        <translation>Madoocoin Core - επιλογής γραμμής εντολών</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -914,16 +914,16 @@ Address: %4
         <translation>Καλώς ήρθατε</translation>
     </message>
     <message>
-        <source>Welcome to Reddcoin Core.</source>
-        <translation>Καλώς ήρθατε στο Reddcoin Core.</translation>
+        <source>Welcome to Madoocoin Core.</source>
+        <translation>Καλώς ήρθατε στο Madoocoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Reddcoin Core will store its data.</source>
-        <translation>Καθώς αυτή είναι η πρώτη φορά που εκκινείται το πρόγραμμα, μπορείτε να διαλέξετε πού θα αποθηκεύει το Reddcoin Core τα δεδομένα του.</translation>
+        <source>As this is the first time the program is launched, you can choose where Madoocoin Core will store its data.</source>
+        <translation>Καθώς αυτή είναι η πρώτη φορά που εκκινείται το πρόγραμμα, μπορείτε να διαλέξετε πού θα αποθηκεύει το Madoocoin Core τα δεδομένα του.</translation>
     </message>
     <message>
-        <source>Reddcoin Core will download and store a copy of the Reddcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>O πυρήνας Reddcoin θα κατεβάσει και να αποθηκεύσει ένα αντίγραφο της αλυσίδας μπλοκ Reddcoin. Τουλάχιστον %1GB δεδομένων θα αποθηκευτούν σε αυτόν τον κατάλογο, και θα αυξηθεί με την πάροδο του χρόνου. Το πορτοφόλι θα αποθηκευτεί σε αυτόν τον κατάλογο.</translation>
+        <source>Madoocoin Core will download and store a copy of the Madoocoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>O πυρήνας Madoocoin θα κατεβάσει και να αποθηκεύσει ένα αντίγραφο της αλυσίδας μπλοκ Madoocoin. Τουλάχιστον %1GB δεδομένων θα αποθηκευτούν σε αυτόν τον κατάλογο, και θα αυξηθεί με την πάροδο του χρόνου. Το πορτοφόλι θα αποθηκευτεί σε αυτόν τον κατάλογο.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -934,8 +934,8 @@ Address: %4
         <translation>Προσαρμογή του φακέλου δεδομένων:</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" can not be created.</source>
@@ -988,12 +988,12 @@ Address: %4
         <translation>Αμοιβή &amp;συναλλαγής</translation>
     </message>
     <message>
-        <source>Automatically start Reddcoin after logging in to the system.</source>
-        <translation>Αυτόματη εκκίνηση του Reddcoin μετά την εισαγωγή στο σύστημα.</translation>
+        <source>Automatically start Madoocoin after logging in to the system.</source>
+        <translation>Αυτόματη εκκίνηση του Madoocoin μετά την εισαγωγή στο σύστημα.</translation>
     </message>
     <message>
-        <source>&amp;Start Reddcoin on system login</source>
-        <translation>&amp;Έναρξη του Reddcoin κατά την εκκίνηση του συστήματος</translation>
+        <source>&amp;Start Madoocoin on system login</source>
+        <translation>&amp;Έναρξη του Madoocoin κατά την εκκίνηση του συστήματος</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1008,8 +1008,8 @@ Address: %4
         <translation>Αριθμός script και γραμμές επαλήθευσης</translation>
     </message>
     <message>
-        <source>Connect to the Reddcoin network through a SOCKS proxy.</source>
-        <translation>Σύνδεση στο Reddcoin δίκτυο μέσω διαμεσολαβητή SOCKS.</translation>
+        <source>Connect to the Madoocoin network through a SOCKS proxy.</source>
+        <translation>Σύνδεση στο Madoocoin δίκτυο μέσω διαμεσολαβητή SOCKS.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1068,8 +1068,8 @@ Address: %4
         <translation>&amp;Ξόδεμα μη επικυρωμένων ρέστων</translation>
     </message>
     <message>
-        <source>Automatically open the Reddcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Αυτόματο άνοιγμα των θυρών Reddcoin στον δρομολογητή. Λειτουργεί μόνο αν ο δρομολογητής σας υποστηρίζει τη λειτουργία UPnP.</translation>
+        <source>Automatically open the Madoocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Αυτόματο άνοιγμα των θυρών Madoocoin στον δρομολογητή. Λειτουργεί μόνο αν ο δρομολογητής σας υποστηρίζει τη λειτουργία UPnP.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1124,8 +1124,8 @@ Address: %4
         <translation>Γλώσσα περιβάλλοντος εργασίας:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Reddcoin.</source>
-        <translation>Εδώ μπορεί να ρυθμιστεί η γλώσσα διεπαφής χρήστη. Αυτή η ρύθμιση θα ισχύσει μετά την επανεκκίνηση του Reddcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Madoocoin.</source>
+        <translation>Εδώ μπορεί να ρυθμιστεί η γλώσσα διεπαφής χρήστη. Αυτή η ρύθμιση θα ισχύσει μετά την επανεκκίνηση του Madoocoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1136,8 +1136,8 @@ Address: %4
         <translation>Διαλέξτε την προεπιλεγμένη υποδιαίρεση που θα εμφανίζεται όταν στέλνετε νομίσματα.</translation>
     </message>
     <message>
-        <source>Whether to show Reddcoin addresses in the transaction list or not.</source>
-        <translation>Επιλέξτε αν θέλετε να εμφανίζονται οι διευθύνσεις Reddcoin στη λίστα συναλλαγών.</translation>
+        <source>Whether to show Madoocoin addresses in the transaction list or not.</source>
+        <translation>Επιλέξτε αν θέλετε να εμφανίζονται οι διευθύνσεις Madoocoin στη λίστα συναλλαγών.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1191,8 +1191,8 @@ Address: %4
         <translation>Φόρμα</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Reddcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Οι πληροφορίες που εμφανίζονται μπορεί να είναι ξεπερασμένες. Το πορτοφόλι σας συγχρονίζεται αυτόματα με το δίκτυο Reddcoin μετά από μια σύνδεση, αλλά αυτή η διαδικασία δεν έχει ακόμη ολοκληρωθεί.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Madoocoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Οι πληροφορίες που εμφανίζονται μπορεί να είναι ξεπερασμένες. Το πορτοφόλι σας συγχρονίζεται αυτόματα με το δίκτυο Madoocoin μετά από μια σύνδεση, αλλά αυτή η διαδικασία δεν έχει ακόμη ολοκληρωθεί.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1254,8 +1254,8 @@ Address: %4
         <translation>Σφάλμα αιτήματος πληρωμής</translation>
     </message>
     <message>
-        <source>Cannot start reddcoin: click-to-pay handler</source>
-        <translation>Δεν είναι δυνατή η εκκίνηση του reddcoin: click-to-pay handler</translation>
+        <source>Cannot start madoocoin: click-to-pay handler</source>
+        <translation>Δεν είναι δυνατή η εκκίνηση του madoocoin: click-to-pay handler</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1293,12 +1293,12 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
-        <source>Enter a Reddcoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Εισάγετε μια διεύθυνση Reddcoin (π.χ. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>Enter a Madoocoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Εισάγετε μια διεύθυνση Madoocoin (π.χ. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
 </context>
 <context>
@@ -1415,7 +1415,7 @@ Address: %4
         <translation>Αρχείο καταγραφής εντοπισμού σφαλμάτων</translation>
     </message>
     <message>
-        <source>Open the Reddcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Madoocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Ανοίξτε το αρχείο καταγραφής εντοπισμού σφαλμάτων από τον τρέχοντα κατάλογο δεδομένων. Αυτό μπορεί να πάρει μερικά δευτερόλεπτα για τα μεγάλα αρχεία καταγραφής.</translation>
     </message>
     <message>
@@ -1423,8 +1423,8 @@ Address: %4
         <translation>Καθαρισμός κονσόλας</translation>
     </message>
     <message>
-        <source>Welcome to the Reddcoin RPC console.</source>
-        <translation>Καλώς ήρθατε στην Reddcoin RPC κονσόλα.</translation>
+        <source>Welcome to the Madoocoin RPC console.</source>
+        <translation>Καλώς ήρθατε στην Madoocoin RPC κονσόλα.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1755,8 +1755,8 @@ Address: %4
         <translation>Η δημιουργία της συναλλαγής απέτυχε!</translation>
     </message>
     <message>
-        <source>Warning: Invalid Reddcoin address</source>
-        <translation>Προειδοποίηση: Μη έγκυρη διεύθυνση Reddcoin</translation>
+        <source>Warning: Invalid Madoocoin address</source>
+        <translation>Προειδοποίηση: Μη έγκυρη διεύθυνση Madoocoin</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1798,8 +1798,8 @@ Address: %4
         <translation>Αυτή είναι μια απλή πληρωμή.</translation>
     </message>
     <message>
-        <source>The Reddcoin address to send the payment to (e.g. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</source>
-        <translation>Η διεύθυνση Reddcoin που θα σταλεί η πληρωμή (π.χ. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</translation>
+        <source>The Madoocoin address to send the payment to (e.g. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</source>
+        <translation>Η διεύθυνση Madoocoin που θα σταλεί η πληρωμή (π.χ. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1841,8 +1841,8 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Reddcoin Core is shutting down...</source>
-        <translation>Το Reddcoin Core τερματίζεται...</translation>
+        <source>Madoocoin Core is shutting down...</source>
+        <translation>Το Madoocoin Core τερματίζεται...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1864,8 +1864,8 @@ Address: %4
         <translation>Μπορείτε να υπογράφετε μηνύματα με τις διευθύνσεις σας, ώστε ν' αποδεικνύετε πως αυτές σας ανήκουν. Αποφεύγετε να υπογράφετε κάτι αόριστο καθώς ενδέχεται να εξαπατηθείτε. Υπογράφετε μόνο πλήρης δηλώσεις με τις οποίες συμφωνείτε.</translation>
     </message>
     <message>
-        <source>The Reddcoin address to sign the message with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Διεύθυνση Reddcoin που θα σταλεί το μήνυμα (π.χ. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>The Madoocoin address to sign the message with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Διεύθυνση Madoocoin που θα σταλεί το μήνυμα (π.χ. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1896,8 +1896,8 @@ Address: %4
         <translation>Αντέγραφη της επιλεγμενης διεύθυνσης στο πρόχειρο του συστηματος</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Reddcoin address</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως σας ανήκει μια συγκεκριμένη διεύθυνση Reddcoin</translation>
+        <source>Sign the message to prove you own this Madoocoin address</source>
+        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως σας ανήκει μια συγκεκριμένη διεύθυνση Madoocoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1920,12 +1920,12 @@ Address: %4
         <translation>Πληκτρολογήστε την υπογραφή διεύθυνσης, μήνυμα (βεβαιωθείτε ότι έχετε αντιγράψει τις αλλαγές γραμμής, κενά, tabs, κ.λπ. ακριβώς) και την υπογραφή παρακάτω, για να ελέγξει το μήνυμα. Να είστε προσεκτικοί για να μην διαβάσετε περισσότερα στην υπογραφή ό, τι είναι στην υπογραφή ίδιο το μήνυμα , για να μην εξαπατηθούν από έναν άνθρωπο -in - the-middle επίθεση.</translation>
     </message>
     <message>
-        <source>The Reddcoin address the message was signed with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Διεύθυνση Reddcoin η οποία το μήνυμα έχει υπογραφεί (π.χ. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>The Madoocoin address the message was signed with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Διεύθυνση Madoocoin η οποία το μήνυμα έχει υπογραφεί (π.χ. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Reddcoin address</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως υπογραφθηκε απο μια συγκεκριμένη διεύθυνση Reddcoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Madoocoin address</source>
+        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως υπογραφθηκε απο μια συγκεκριμένη διεύθυνση Madoocoin</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1940,8 +1940,8 @@ Address: %4
         <translation>Κάντε κλικ στο "Υπογραφή Μηνύματος" για να λάβετε την υπογραφή</translation>
     </message>
     <message>
-        <source>Enter a Reddcoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Εισάγετε μια διεύθυνση Reddcoin (π.χ. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>Enter a Madoocoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Εισάγετε μια διεύθυνση Madoocoin (π.χ. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
@@ -1995,12 +1995,12 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
-        <source>The Reddcoin Core developers</source>
-        <translation>Οι προγραμματιστές του Reddcoin Core</translation>
+        <source>The Madoocoin Core developers</source>
+        <translation>Οι προγραμματιστές του Madoocoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2517,23 +2517,23 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=reddcoinrpc
+rpcuser=madoocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Madoocoin Alert" admin@foo.com
 </source>
         <translation>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=reddcoinrpc
+rpcuser=madoocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
-It is also recommended to set alertnotify so you are notified of problems; for example: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
+It is also recommended to set alertnotify so you are notified of problems; for example: alertnotify=echo %%s | mail -s "Madoocoin Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -2569,8 +2569,8 @@ It is also recommended to set alertnotify so you are notified of problems; for e
         <translation>Προειδοποίηση: Η παράμετρος -paytxfee είναι πολύ υψηλή. Πρόκειται για την αμοιβή που θα πληρώνετε για κάθε συναλλαγή που θα στέλνετε.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Reddcoin will not work properly.</source>
-        <translation>Προειδοποίηση: Παρακαλώ βεβαιωθείτε πως η ημερομηνία κι ώρα του συστήματός σας είναι σωστές. Αν το ρολόι του υπολογιστή σας πάει λάθος, ενδέχεται να μη λειτουργεί σωστά το Reddcoin.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Madoocoin will not work properly.</source>
+        <translation>Προειδοποίηση: Παρακαλώ βεβαιωθείτε πως η ημερομηνία κι ώρα του συστήματός σας είναι σωστές. Αν το ρολόι του υπολογιστή σας πάει λάθος, ενδέχεται να μη λειτουργεί σωστά το Madoocoin.</translation>
     </message>
     <message>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
@@ -2701,8 +2701,8 @@ It is also recommended to set alertnotify so you are notified of problems; for e
         <translation>ΕΙσαγωγή...</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Reddcoin Core is shutting down.</source>
-        <translation>Η εκκίνηση ελέγχου ορθότητας απέτυχε. Γίνεται τερματισμός του Reddcoin Core.</translation>
+        <source>Initialization sanity check failed. Madoocoin Core is shutting down.</source>
+        <translation>Η εκκίνηση ελέγχου ορθότητας απέτυχε. Γίνεται τερματισμός του Madoocoin Core.</translation>
     </message>
     <message>
         <source>Invalid -onion address: '%s'</source>
@@ -2713,8 +2713,8 @@ It is also recommended to set alertnotify so you are notified of problems; for e
         <translation>Δεν ειναι αρκετες περιγραφες αρχείων διαθέσιμες.</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the wiki.reddcoin.com for SSL setup instructions)</source>
-        <translation>Ρυθμίσεις SSL: (ανατρέξτε στο wiki.reddcoin.com για οδηγίες ρυθμίσεων SSL)</translation>
+        <source>RPC SSL options: (see the wiki.madoocoin.com for SSL setup instructions)</source>
+        <translation>Ρυθμίσεις SSL: (ανατρέξτε στο wiki.madoocoin.com για οδηγίες ρυθμίσεων SSL)</translation>
     </message>
     <message>
         <source>Rebuild block chain index from current blk000??.dat files</source>
@@ -2729,12 +2729,12 @@ It is also recommended to set alertnotify so you are notified of problems; for e
         <translation>Ορίσμος του αριθμόυ θεματων στην υπηρεσία κλήσεων RPC (προεπιλογή: 4)</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: reddcoin.conf)</source>
-        <translation>Ορίστε αρχείο ρυθμίσεων (προεπιλογή: reddcoin.conf)</translation>
+        <source>Specify configuration file (default: madoocoin.conf)</source>
+        <translation>Ορίστε αρχείο ρυθμίσεων (προεπιλογή: madoocoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: reddcoind.pid)</source>
-        <translation>Ορίστε αρχείο pid (προεπιλογή: reddcoind.pid)</translation>
+        <source>Specify pid file (default: madoocoind.pid)</source>
+        <translation>Ορίστε αρχείο pid (προεπιλογή: madoocoind.pid)</translation>
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
@@ -2761,8 +2761,8 @@ It is also recommended to set alertnotify so you are notified of problems; for e
         <translation>Εισαγωγή μπλοκ από εξωτερικό αρχείο blk000?.dat</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Reddcoin Core is probably already running.</source>
-        <translation>Αδυναμία κλειδώματος του φακέλου δεδομένων %s. Πιθανώς το Reddcoin να είναι ήδη ενεργό.</translation>
+        <source>Cannot obtain a lock on data directory %s. Madoocoin Core is probably already running.</source>
+        <translation>Αδυναμία κλειδώματος του φακέλου δεδομένων %s. Πιθανώς το Madoocoin να είναι ήδη ενεργό.</translation>
     </message>
     <message>
         <source>Information</source>
@@ -2929,12 +2929,12 @@ It is also recommended to set alertnotify so you are notified of problems; for e
         <translation>Σφάλμα φόρτωσης wallet.dat: Κατεστραμμένο Πορτοφόλι</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Reddcoin</source>
-        <translation>Σφάλμα φόρτωσης wallet.dat: Το Πορτοφόλι απαιτεί μια νεότερη έκδοση του Reddcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Madoocoin</source>
+        <translation>Σφάλμα φόρτωσης wallet.dat: Το Πορτοφόλι απαιτεί μια νεότερη έκδοση του Madoocoin</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Reddcoin to complete</source>
-        <translation>Απαιτείται η επανεγγραφή του Πορτοφολιού, η οποία θα ολοκληρωθεί στην επανεκκίνηση του Reddcoin</translation>
+        <source>Wallet needed to be rewritten: restart Madoocoin to complete</source>
+        <translation>Απαιτείται η επανεγγραφή του Πορτοφολιού, η οποία θα ολοκληρωθεί στην επανεκκίνηση του Madoocoin</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

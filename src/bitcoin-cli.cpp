@@ -42,11 +42,11 @@ static bool AppInitRPC(int argc, char* argv[])
     if (argc<2 || mapArgs.count("-?") || mapArgs.count("--help"))
     {
         // First part of help message is specific to RPC client
-        std::string strUsage = _("Reddcoin Core RPC client version") + " " + FormatFullVersion() + "\n\n" +
+        std::string strUsage = _("Madoocoin Core RPC client version") + " " + FormatFullVersion() + "\n\n" +
             _("Usage:") + "\n" +
-              "  reddcoin-cli [options] <command> [params]  " + _("Send command to reddcoin Core") + "\n" +
-              "  reddcoin-cli [options] help                " + _("List commands") + "\n" +
-              "  reddcoin-cli [options] help <command>      " + _("Get help for a command") + "\n";
+              "  madoocoin-cli [options] <command> [params]  " + _("Send command to madoocoin Core") + "\n" +
+              "  madoocoin-cli [options] help                " + _("List commands") + "\n" +
+              "  madoocoin-cli [options] help <command>      " + _("Get help for a command") + "\n";
 
         strUsage += "\n" + HelpMessageCli(true);
 

@@ -87,12 +87,12 @@ Acest produs include software-ul dezvoltat de către OpenSSL Project pentru util
         <translation>Primire adrese</translation>
     </message>
     <message>
-        <source>These are your Reddcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Acestea sunt adresele Reddcoin către care trimite-ţi plăţi-le. Întotdeauna verificaţi suma şi adresa destinatar înainte de a trimite monede.</translation>
+        <source>These are your Madoocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Acestea sunt adresele Madoocoin către care trimite-ţi plăţi-le. Întotdeauna verificaţi suma şi adresa destinatar înainte de a trimite monede.</translation>
     </message>
     <message>
-        <source>These are your Reddcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Acestea sunt adresele Reddcoin pentru a primi plăţi. Este recomandat să utilizaţi o nouă adresă de primire pentru fiecare tranzacţie.</translation>
+        <source>These are your Madoocoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Acestea sunt adresele Madoocoin pentru a primi plăţi. Este recomandat să utilizaţi o nouă adresă de primire pentru fiecare tranzacţie.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -197,8 +197,8 @@ Acest produs include software-ul dezvoltat de către OpenSSL Project pentru util
         <translation>Confirmă criptarea portofelului.</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REDDCOINS&lt;/b&gt;!</source>
-        <translation>Atenție: Dacă pierdeţi parola portofelului electronic dupa criptare, &lt;b&gt;VEŢI PIERDE ÎNTREAGA SUMĂ DE REDDCOIN ACUMULATĂ&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MADOOCOINS&lt;/b&gt;!</source>
+        <translation>Atenție: Dacă pierdeţi parola portofelului electronic dupa criptare, &lt;b&gt;VEŢI PIERDE ÎNTREAGA SUMĂ DE MADOOCOIN ACUMULATĂ&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -217,8 +217,8 @@ Acest produs include software-ul dezvoltat de către OpenSSL Project pentru util
         <translation>Portofel criptat </translation>
     </message>
     <message>
-        <source>Reddcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your reddcoins from being stolen by malware infecting your computer.</source>
-        <translation>Reddcoin se va închide acum pentru a termina procesul de criptare. Amintiți-vă că criptarea portofelului dumneavoastră nu poate proteja în totalitate reddcoins dvs. de a fi furate de intentii rele.</translation>
+        <source>Madoocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your madoocoins from being stolen by malware infecting your computer.</source>
+        <translation>Madoocoin se va închide acum pentru a termina procesul de criptare. Amintiți-vă că criptarea portofelului dumneavoastră nu poate proteja în totalitate madoocoins dvs. de a fi furate de intentii rele.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -272,8 +272,8 @@ Acest produs include software-ul dezvoltat de către OpenSSL Project pentru util
         <translation>Afişează detalii despre portofelul electronic</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and reddcoin: URIs)</source>
-        <translation>Cere plăţi(genereaza coduri QR şi reddcoin: URIs)</translation>
+        <source>Request payments (generates QR codes and madoocoin: URIs)</source>
+        <translation>Cere plăţi(genereaza coduri QR şi madoocoin: URIs)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -292,8 +292,8 @@ Acest produs include software-ul dezvoltat de către OpenSSL Project pentru util
         <translation>Părăsiţi aplicaţia</translation>
     </message>
     <message>
-        <source>Show information about Reddcoin</source>
-        <translation>Informaţii despre Reddcoin</translation>
+        <source>Show information about Madoocoin</source>
+        <translation>Informaţii despre Madoocoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -348,8 +348,8 @@ Acest produs include software-ul dezvoltat de către OpenSSL Project pentru util
         <translation>Deschide &amp;URI...</translation>
     </message>
     <message>
-        <source>Open a reddcoin: URI or payment request</source>
-        <translation>Deschide un reddcoin: URI sau cerere de plată</translation>
+        <source>Open a madoocoin: URI or payment request</source>
+        <translation>Deschide un madoocoin: URI sau cerere de plată</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -384,12 +384,12 @@ Acest produs include software-ul dezvoltat de către OpenSSL Project pentru util
         <translation>Nu face staking</translation>
     </message>
     <message>
-        <source>Send coins to a Reddcoin address</source>
-        <translation>&amp;Trimiteţi Reddcoin către o anumită adresă</translation>
+        <source>Send coins to a Madoocoin address</source>
+        <translation>&amp;Trimiteţi Madoocoin către o anumită adresă</translation>
     </message>
     <message>
-        <source>Modify configuration options for Reddcoin</source>
-        <translation>Modifică setările pentru Reddcoin</translation>
+        <source>Modify configuration options for Madoocoin</source>
+        <translation>Modifică setările pentru Madoocoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -412,8 +412,8 @@ Acest produs include software-ul dezvoltat de către OpenSSL Project pentru util
         <translation>Verifica mesajul</translation>
     </message>
     <message>
-        <source>Reddcoin</source>
-        <translation>Reddcoin</translation>
+        <source>Madoocoin</source>
+        <translation>Madoocoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -436,12 +436,12 @@ Acest produs include software-ul dezvoltat de către OpenSSL Project pentru util
         <translation>Criptează cheile private care fac parte din protofel</translation>
     </message>
     <message>
-        <source>Sign messages with your Reddcoin addresses to prove you own them</source>
-        <translation>Conectează mesajele cu adresa ta de Reddcoin ca să doevedeşti că le deţii</translation>
+        <source>Sign messages with your Madoocoin addresses to prove you own them</source>
+        <translation>Conectează mesajele cu adresa ta de Madoocoin ca să doevedeşti că le deţii</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Reddcoin addresses</source>
-        <translation>Verifică mesajele ca să te asiguri că erau conectaţi la adresa Reddcoin specificate</translation>
+        <source>Verify messages to ensure they were signed with specified Madoocoin addresses</source>
+        <translation>Verifică mesajele ca să te asiguri că erau conectaţi la adresa Madoocoin specificate</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -464,8 +464,8 @@ Acest produs include software-ul dezvoltat de către OpenSSL Project pentru util
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -544,8 +544,8 @@ Address: %4
         <translation>Portofelul electronic este &lt;b&gt;criptat&lt;/b&gt; iar in momentul de faţă este &lt;b&gt;blocat&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Reddcoin can no longer continue safely and will quit.</source>
-        <translation>A survenit o eroare fatală.Reddcoin nu v-a putea continua in siguranţă si se v-a opri.</translation>
+        <source>A fatal error occurred. Madoocoin can no longer continue safely and will quit.</source>
+        <translation>A survenit o eroare fatală.Madoocoin nu v-a putea continua in siguranţă si se v-a opri.</translation>
     </message>
 </context>
 <context>
@@ -817,8 +817,8 @@ Address: %4
         <translation>Adresa introdusă "%1" se află deja în Lista de adrese.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Reddcoin address.</source>
-        <translation>Adresa introdusă "%1" nu este o adresă reddcoin valabilă.</translation>
+        <source>The entered address "%1" is not a valid Madoocoin address.</source>
+        <translation>Adresa introdusă "%1" nu este o adresă madoocoin valabilă.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -855,8 +855,8 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -906,8 +906,8 @@ Address: %4
         <translation>Folosiți un director de date personalizat:</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" can not be created.</source>
@@ -968,12 +968,12 @@ Address: %4
         <translation>Plăteşte comision pentru tranzacţie &amp;f</translation>
     </message>
     <message>
-        <source>Automatically start Reddcoin after logging in to the system.</source>
-        <translation>Porneşte automat programul Reddcoin la pornirea computerului.</translation>
+        <source>Automatically start Madoocoin after logging in to the system.</source>
+        <translation>Porneşte automat programul Madoocoin la pornirea computerului.</translation>
     </message>
     <message>
-        <source>&amp;Start Reddcoin on system login</source>
-        <translation>&amp;S Porneşte Reddcoin la pornirea sistemului</translation>
+        <source>&amp;Start Madoocoin on system login</source>
+        <translation>&amp;S Porneşte Madoocoin la pornirea sistemului</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -988,8 +988,8 @@ Address: %4
         <translation>Numărul de fire de script si de verificare</translation>
     </message>
     <message>
-        <source>Connect to the Reddcoin network through a SOCKS proxy.</source>
-        <translation>Conectați-vă la rețeaua Reddcoin printr-un proxy SOCKS.</translation>
+        <source>Connect to the Madoocoin network through a SOCKS proxy.</source>
+        <translation>Conectați-vă la rețeaua Madoocoin printr-un proxy SOCKS.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1024,8 +1024,8 @@ Address: %4
         <translation>Dacă dezactivați cheltuielile de schimbare neconfirmate, trecerea de la o tranzacție nu poate fi utilizat până când această tranzacție are cel puțin o confirmare. Acest lucru afectează de asemenea, modul în care este calculat echilibrul.</translation>
     </message>
     <message>
-        <source>Automatically open the Reddcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat în router portul aferent clientului Reddcoin. Funcţionează doar în cazul în care routerul e compatibil UPnP şi opţiunea e activată.</translation>
+        <source>Automatically open the Madoocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat în router portul aferent clientului Madoocoin. Funcţionează doar în cazul în care routerul e compatibil UPnP şi opţiunea e activată.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1080,8 +1080,8 @@ Address: %4
         <translation>Interfata &amp; limba userului</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Reddcoin.</source>
-        <translation>Limba interfeței utilizatorului poate fi setat aici. Această setare va avea efect după repornirea Reddcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Madoocoin.</source>
+        <translation>Limba interfeței utilizatorului poate fi setat aici. Această setare va avea efect după repornirea Madoocoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1089,11 +1089,11 @@ Address: %4
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Alege subdiviziunea folosită la afişarea interfeţei şi la trimiterea de reddcoin.</translation>
+        <translation>Alege subdiviziunea folosită la afişarea interfeţei şi la trimiterea de madoocoin.</translation>
     </message>
     <message>
-        <source>Whether to show Reddcoin addresses in the transaction list or not.</source>
-        <translation>Vezi dacă adresele Reddcoin sunt în lista de tranzacție sau nu</translation>
+        <source>Whether to show Madoocoin addresses in the transaction list or not.</source>
+        <translation>Vezi dacă adresele Madoocoin sunt în lista de tranzacție sau nu</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1137,7 +1137,7 @@ Address: %4
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>Adresa reddcoin pe care a-ti specificat-o este invalida</translation>
+        <translation>Adresa madoocoin pe care a-ti specificat-o este invalida</translation>
     </message>
 </context>
 <context>
@@ -1147,8 +1147,8 @@ Address: %4
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Reddcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informațiile afișate pot fi expirate. Portofelul tău se sincronizează automat cu rețeaua Reddcoin după ce o conexiune este stabilita, dar acest proces nu a fost finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Madoocoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informațiile afișate pot fi expirate. Portofelul tău se sincronizează automat cu rețeaua Madoocoin după ce o conexiune este stabilita, dar acest proces nu a fost finalizat încă.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1202,8 +1202,8 @@ Address: %4
         <translation>manipularea URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Reddcoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi analizat! Acest lucru poate fi cauzat de o adresă Reddcoin invalid sau parametri malformate URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Madoocoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi analizat! Acest lucru poate fi cauzat de o adresă Madoocoin invalid sau parametri malformate URI.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1214,8 +1214,8 @@ Address: %4
         <translation>Eroare cerere de plată</translation>
     </message>
     <message>
-        <source>Cannot start reddcoin: click-to-pay handler</source>
-        <translation>Nu se poate porni reddcoin: apasă click penrtu a plăti manipularea</translation>
+        <source>Cannot start madoocoin: click-to-pay handler</source>
+        <translation>Nu se poate porni madoocoin: apasă click penrtu a plăti manipularea</translation>
     </message>
     <message>
         <source>Net manager warning</source>
@@ -1269,8 +1269,8 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -1391,7 +1391,7 @@ Address: %4
         <translation>Loguri debug</translation>
     </message>
     <message>
-        <source>Open the Reddcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Madoocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Deschide logurile debug din directorul curent. Aceasta poate dura cateva secunde pentru fisierele mai mari</translation>
     </message>
     <message>
@@ -1399,8 +1399,8 @@ Address: %4
         <translation>Curata consola</translation>
     </message>
     <message>
-        <source>Welcome to the Reddcoin RPC console.</source>
-        <translation>Bun venit la consola reddcoin RPC</translation>
+        <source>Welcome to the Madoocoin RPC console.</source>
+        <translation>Bun venit la consola madoocoin RPC</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1462,8 +1462,8 @@ Address: %4
         <translation>Reutilizează o adresă de primire existentă (nu se recomandă)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Reddcoin network.</source>
-        <translation>Un mesaj opțional să se atașeze la cererea de plată, care va fi afișat atunci când cererea este deschis. Notă: Mesajul nu va fi trimis cu plata prin rețea Reddcoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Madoocoin network.</source>
+        <translation>Un mesaj opțional să se atașeze la cererea de plată, care va fi afișat atunci când cererea este deschis. Notă: Mesajul nu va fi trimis cu plata prin rețea Madoocoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1612,7 +1612,7 @@ Address: %4
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Trimite Reddcoin</translation>
+        <translation>Trimite Madoocoin</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -1700,7 +1700,7 @@ Address: %4
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Confirmaţi trimiterea de reddcoin</translation>
+        <translation>Confirmaţi trimiterea de madoocoin</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -1846,8 +1846,8 @@ Address: %4
         <translation>Mesaj:</translation>
     </message>
     <message>
-        <source>A message that was attached to the reddcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Reddcoin network.</source>
-        <translation>Un mesaj care a fost anexat la reddcoin: URI care vor fi stocate cu tranzacția de referință. Notă: Acest mesaj nu va fi trimis prin rețea Reddcoin.</translation>
+        <source>A message that was attached to the madoocoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Madoocoin network.</source>
+        <translation>Un mesaj care a fost anexat la madoocoin: URI care vor fi stocate cu tranzacția de referință. Notă: Acest mesaj nu va fi trimis prin rețea Madoocoin.</translation>
     </message>
     <message>
         <source>This is a verified payment request.</source>
@@ -1920,8 +1920,8 @@ Address: %4
         <translation>Copiaza semnatura curenta in clipboard-ul sistemului</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Reddcoin address</source>
-        <translation>Semneaza mesajul pentru a dovedi ca detii acesta adresa Reddcoin</translation>
+        <source>Sign the message to prove you own this Madoocoin address</source>
+        <translation>Semneaza mesajul pentru a dovedi ca detii acesta adresa Madoocoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1944,8 +1944,8 @@ Address: %4
         <translation>Introduceți adresa de semnare, mesajul (asigură că copiați sfârșiturile de linie, spații, tab-uri, etc exact) și semnătura de mai jos pentru a verifica mesajul. Aveți grijă să nu citiţi mai mult în semnătura decât ceea ce este în mesajul semnat în sine, pentru a evita sa fie pacalit de un atac.</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Reddcoin address</source>
-        <translation>Verifica mesajul pentru a fi sigur ca a fost semnat cu adresa Reddcoin specifica</translation>
+        <source>Verify the message to ensure it was signed with the specified Madoocoin address</source>
+        <translation>Verifica mesajul pentru a fi sigur ca a fost semnat cu adresa Madoocoin specifica</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2011,8 +2011,8 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2413,7 +2413,7 @@ Address: %4
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Trimite Reddcoin</translation>
+        <translation>Trimite Madoocoin</translation>
     </message>
 </context>
 <context>
@@ -2518,24 +2518,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=reddcoinrpc
+rpcuser=madoocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Madoocoin Alert" admin@foo.com
 </source>
         <translation>%s, trebuie să setați un rpcpassword în fișierul de configurare:
 %s
 Este recomandat să folosiți următoarea parola aleatoare:
-rpcuser = reddcoinrpc
+rpcuser = madoocoinrpc
 rpcpassword = %s
 (nu aveți nevoie să vă amintiți această parolă) 
 Numele de utilizator și parola nu trebuie să fie acelaşi.
 Dacă fișierul nu există, se creează cu-proprietar doar-vizibil doar cu permisiune fişier.
 De asemenea, este recomandat să setați alertnotify, astfel încât să fie notificate de probleme; 
-de exemplu: alertnotify = echo %%s | mail -s "Reddcoin Alert" admin@foo.com</translation>
+de exemplu: alertnotify = echo %%s | mail -s "Madoocoin Alert" admin@foo.com</translation>
     </message>
     <message>
         <source>Acceptable ciphers (default: TLSv1.2+HIGH:TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!3DES:@STRENGTH)</source>
@@ -2578,8 +2578,8 @@ de exemplu: alertnotify = echo %%s | mail -s "Reddcoin Alert" admin@foo.com</tra
         <translation>Atenție: -paytxfee este foarte ridicat! Aceasta este taxa de tranzacție pe care o să o plătiţi dacă trimiteți o tranzacția.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Reddcoin will not work properly.</source>
-        <translation>Atenție: Vă rugăm să verificați dacă data și ora computerului sunt corecte! Dacă ceasul este greșit Reddcoin nu va funcționa corect.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Madoocoin will not work properly.</source>
+        <translation>Atenție: Vă rugăm să verificați dacă data și ora computerului sunt corecte! Dacă ceasul este greșit Madoocoin nu va funcționa corect.</translation>
     </message>
     <message>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
@@ -2674,12 +2674,12 @@ de exemplu: alertnotify = echo %%s | mail -s "Reddcoin Alert" admin@foo.com</tra
         <translation>Opţiuni client RPC:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: reddcoin.conf)</source>
-        <translation>Specifica-ți configurația fisierului (in mod normal: reddcoin.conf)</translation>
+        <source>Specify configuration file (default: madoocoin.conf)</source>
+        <translation>Specifica-ți configurația fisierului (in mod normal: madoocoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: reddcoind.pid)</source>
-        <translation>Precizați fișier PID (implicit: reddcoind.pid)</translation>
+        <source>Specify pid file (default: madoocoind.pid)</source>
+        <translation>Precizați fișier PID (implicit: madoocoind.pid)</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -2806,12 +2806,12 @@ de exemplu: alertnotify = echo %%s | mail -s "Reddcoin Alert" admin@foo.com</tra
         <translation>Eroare incarcand wallet.dat: Portofel corupt</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Reddcoin</source>
-        <translation>Eroare incarcare wallet.dat: Portofelul are nevoie de o versiune Reddcoin mai noua</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Madoocoin</source>
+        <translation>Eroare incarcare wallet.dat: Portofelul are nevoie de o versiune Madoocoin mai noua</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Reddcoin to complete</source>
-        <translation>Portofelul trebuie rescris: restarteaza aplicatia reddcoin pentru a face asta.</translation>
+        <source>Wallet needed to be rewritten: restart Madoocoin to complete</source>
+        <translation>Portofelul trebuie rescris: restarteaza aplicatia madoocoin pentru a face asta.</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

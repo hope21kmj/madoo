@@ -1,6 +1,6 @@
 Mac OS X Build Instructions and Notes
 ====================================
-This guide will show you how to build reddcoind(headless client) for OSX.
+This guide will show you how to build madoocoind(headless client) for OSX.
 
 Notes
 -----
@@ -73,19 +73,19 @@ These rest of these commands are run inside brew interactive mode:
 /private/tmp/berkeley-db4-UGpd0O $ exit
 ```
 
-After exiting, you'll get a warning that the install is keg-only, which means it wasn't symlinked to `/usr/local`.  You don't need it to link it to build reddcoin, but if you want to, here's how:
+After exiting, you'll get a warning that the install is keg-only, which means it wasn't symlinked to `/usr/local`.  You don't need it to link it to build madoocoin, but if you want to, here's how:
 
     $ brew --force link berkeley-db4
 
 
-### Building `reddcoind`
+### Building `madoocoind`
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone https://github.com/reddcoin-project/reddcoin.git
-        cd reddcoin
+        git clone https://github.com/madoocoin-project/madoocoin.git
+        cd madoocoin
 
-2.  Build reddcoind:
+2.  Build madoocoind:
 
         ./autogen.sh
         ./configure
@@ -97,11 +97,11 @@ After exiting, you'll get a warning that the install is keg-only, which means it
 
 Creating a release build
 ------------------------
-You can ignore this section if you are building `reddcoind` for your own use.
+You can ignore this section if you are building `madoocoind` for your own use.
 
-reddcoind/reddcoin-cli binaries are not included in the Reddcoin-Qt.app bundle.
+madoocoind/madoocoin-cli binaries are not included in the Madoocoin-Qt.app bundle.
 
-If you are building `reddcoind` or `Reddcoin-Qt` for others, your build machine should be set up
+If you are building `madoocoind` or `Madoocoin-Qt` for others, your build machine should be set up
 as follows for maximum compatibility:
 
 All dependencies should be compiled with these flags:
@@ -110,29 +110,29 @@ All dependencies should be compiled with these flags:
  -arch x86_64
  -isysroot $(xcode-select --print-path)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk
 
-Once dependencies are compiled, see release-process.md for how the Reddcoin-Qt.app
+Once dependencies are compiled, see release-process.md for how the Madoocoin-Qt.app
 bundle is packaged and signed to create the .dmg disk image that is distributed.
 
 Running
 -------
 
-It's now available at `./reddcoind`, provided that you are still in the `src`
+It's now available at `./madoocoind`, provided that you are still in the `src`
 directory. We have to first create the RPC configuration file, though.
 
-Run `./reddcoind` to get the filename where it should be put, or just try these
+Run `./madoocoind` to get the filename where it should be put, or just try these
 commands:
 
-    echo -e "rpcuser=reddcoinrpc\reddcoinrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Reddcoin/reddcoin.conf"
-    chmod 600 "/Users/${USER}/Library/Application Support/Reddcoin/reddcoin.conf"
+    echo -e "rpcuser=madoocoinrpc\madoocoinrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Madoocoin/madoocoin.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/Madoocoin/madoocoin.conf"
 
 When next you run it, it will start downloading the blockchain, but it won't
 output anything while it's doing this. This process may take several hours;
 you can monitor its process by looking at the debug.log file, like this:
 
-    tail -f $HOME/Library/Application\ Support/Reddcoin/debug.log
+    tail -f $HOME/Library/Application\ Support/Madoocoin/debug.log
 
 Other commands:
 
-    ./reddcoind -daemon # to start the bitcoin daemon.
-    ./reddcoin-cli --help  # for a list of command-line options.
-    ./reddcoin-cli help    # When the daemon is running, to get a list of RPC commands
+    ./madoocoind -daemon # to start the bitcoin daemon.
+    ./madoocoin-cli --help  # for a list of command-line options.
+    ./madoocoin-cli help    # When the daemon is running, to get a list of RPC commands

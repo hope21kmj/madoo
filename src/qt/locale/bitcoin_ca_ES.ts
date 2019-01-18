@@ -13,8 +13,8 @@
         <translation>Escull la direcció amb la qual rebre monedes</translation>
     </message>
     <message>
-        <source>These are your Reddcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Aquestes són les teves adreces Reddcoin per rebre pagaments. Es recomana utilitzar una adreça diferent per a cada transacció.</translation>
+        <source>These are your Madoocoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Aquestes són les teves adreces Madoocoin per rebre pagaments. Es recomana utilitzar una adreça diferent per a cada transacció.</translation>
     </message>
     <message>
         <source>Export Address List</source>
@@ -164,8 +164,8 @@
 <context>
     <name>ReceiveCoinsDialog</name>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Reddcoin network.</source>
-        <translation>Un missatge opcional a adjuntar a la petició de pagament que serà mostrat quan la petició sigui oberta. Nota: el missatge no serà retransmès amb el pagament per la Xarxa Reddcoin</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Madoocoin network.</source>
+        <translation>Un missatge opcional a adjuntar a la petició de pagament que serà mostrat quan la petició sigui oberta. Nota: el missatge no serà retransmès amb el pagament per la Xarxa Madoocoin</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>

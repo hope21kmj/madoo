@@ -86,12 +86,12 @@ Dreift undir MIT / X11 hugbúnaðar leyfi, sjá meðfylgjandi skrá afritar eða
         <translation>Mótaka reiknisnúmer </translation>
     </message>
     <message>
-        <source>These are your Reddcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Þetta eru þín Reddcoin reikningsnúmerin til að senda greiðslur með.Athugaðu alltaf upphæðina sem á að senda og reikningsnúmer viðtakanda áður en myntin er send. </translation>
+        <source>These are your Madoocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Þetta eru þín Madoocoin reikningsnúmerin til að senda greiðslur með.Athugaðu alltaf upphæðina sem á að senda og reikningsnúmer viðtakanda áður en myntin er send. </translation>
     </message>
     <message>
-        <source>These are your Reddcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Þetta eru þín Reddcoin reikningsnúmer til að mótaka greiðslur. Það er mælt með því að nota nýtt reikningsnúmer fyrir hverja færslu.</translation>
+        <source>These are your Madoocoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Þetta eru þín Madoocoin reikningsnúmer til að mótaka greiðslur. Það er mælt með því að nota nýtt reikningsnúmer fyrir hverja færslu.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -196,8 +196,8 @@ Dreift undir MIT / X11 hugbúnaðar leyfi, sjá meðfylgjandi skrá afritar eða
         <translation>Staðfestu veskis dulkóðun  </translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REDDCOINS&lt;/b&gt;!</source>
-        <translation>Viðvörun: Ef þú dulkóða veskið þitt og tapar lykilorð þínu, munt þú &lt;b&gt; TAPAR ÞÚ ÖLLUM REDDCOINS SEM ÞÚ ÁTT &lt;/ b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MADOOCOINS&lt;/b&gt;!</source>
+        <translation>Viðvörun: Ef þú dulkóða veskið þitt og tapar lykilorð þínu, munt þú &lt;b&gt; TAPAR ÞÚ ÖLLUM MADOOCOINS SEM ÞÚ ÁTT &lt;/ b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -216,8 +216,8 @@ Dreift undir MIT / X11 hugbúnaðar leyfi, sjá meðfylgjandi skrá afritar eða
         <translation>Veskið er dulkóðað</translation>
     </message>
     <message>
-        <source>Reddcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your reddcoins from being stolen by malware infecting your computer.</source>
-        <translation>Reddcoin verður lokað nú til að ljúka dulkóðun ferli. Mundu að dulkóðaða veskið þitt getur ekki að fullu að varið reddcoins frá því að vera stolið ef tölvan þín er smituð af spilliforrit.</translation>
+        <source>Madoocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your madoocoins from being stolen by malware infecting your computer.</source>
+        <translation>Madoocoin verður lokað nú til að ljúka dulkóðun ferli. Mundu að dulkóðaða veskið þitt getur ekki að fullu að varið madoocoins frá því að vera stolið ef tölvan þín er smituð af spilliforrit.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -271,8 +271,8 @@ Dreift undir MIT / X11 hugbúnaðar leyfi, sjá meðfylgjandi skrá afritar eða
         <translation>Sýna alment yfirlit af veskinu </translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and reddcoin: URIs)</source>
-        <translation>Fara fram á greiðslu (Býr til QR kóða og reddcoin: URIs)</translation>
+        <source>Request payments (generates QR codes and madoocoin: URIs)</source>
+        <translation>Fara fram á greiðslu (Býr til QR kóða og madoocoin: URIs)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -291,8 +291,8 @@ Dreift undir MIT / X11 hugbúnaðar leyfi, sjá meðfylgjandi skrá afritar eða
         <translation>Hætta við umsókn</translation>
     </message>
     <message>
-        <source>Show information about Reddcoin</source>
-        <translation>Sýna upplýsingar um Reddcoin </translation>
+        <source>Show information about Madoocoin</source>
+        <translation>Sýna upplýsingar um Madoocoin </translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -347,8 +347,8 @@ Dreift undir MIT / X11 hugbúnaðar leyfi, sjá meðfylgjandi skrá afritar eða
         <translation>Opna &amp;URI...</translation>
     </message>
     <message>
-        <source>Open a reddcoin: URI or payment request</source>
-        <translation>Opna reddcoin:URI eða greiðslu beiðni </translation>
+        <source>Open a madoocoin: URI or payment request</source>
+        <translation>Opna madoocoin:URI eða greiðslu beiðni </translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -383,12 +383,12 @@ Dreift undir MIT / X11 hugbúnaðar leyfi, sjá meðfylgjandi skrá afritar eða
         <translation>Ekki að stafla </translation>
     </message>
     <message>
-        <source>Send coins to a Reddcoin address</source>
-        <translation>Senda mynt til Reddcoin reiknings </translation>
+        <source>Send coins to a Madoocoin address</source>
+        <translation>Senda mynt til Madoocoin reiknings </translation>
     </message>
     <message>
-        <source>Modify configuration options for Reddcoin</source>
-        <translation>Breyti stillingar valkostum fyrir Reddcoin</translation>
+        <source>Modify configuration options for Madoocoin</source>
+        <translation>Breyti stillingar valkostum fyrir Madoocoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -411,8 +411,8 @@ Dreift undir MIT / X11 hugbúnaðar leyfi, sjá meðfylgjandi skrá afritar eða
         <translation>&amp;Staðfestu skilaboð...</translation>
     </message>
     <message>
-        <source>Reddcoin</source>
-        <translation>Reddcoin</translation>
+        <source>Madoocoin</source>
+        <translation>Madoocoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -435,12 +435,12 @@ Dreift undir MIT / X11 hugbúnaðar leyfi, sjá meðfylgjandi skrá afritar eða
         <translation>Dulkóða einkalykil sem tilheyrir veskinu þínu </translation>
     </message>
     <message>
-        <source>Sign messages with your Reddcoin addresses to prove you own them</source>
-        <translation>Skráðu inn skilaboð með þínum Reddcoin reikningsnúmeri til að sanna að þú eigir myntina</translation>
+        <source>Sign messages with your Madoocoin addresses to prove you own them</source>
+        <translation>Skráðu inn skilaboð með þínum Madoocoin reikningsnúmeri til að sanna að þú eigir myntina</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Reddcoin addresses</source>
-        <translation>Staðfestu skilaboðinn til að tryggja að þau voru skráð með tilteknum Reddcoin reikningi </translation>
+        <source>Verify messages to ensure they were signed with specified Madoocoin addresses</source>
+        <translation>Staðfestu skilaboðinn til að tryggja að þau voru skráð með tilteknum Madoocoin reikningi </translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -463,8 +463,8 @@ Dreift undir MIT / X11 hugbúnaðar leyfi, sjá meðfylgjandi skrá afritar eða
         <translation>[prufunet]</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin kjarni </translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin kjarni </translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -547,8 +547,8 @@ Reikningur: %4
         <translation>Veskið er &lt;b&gt;dulkóðað&lt;/b&gt; og nú &lt;b&gt;læst&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Reddcoin can no longer continue safely and will quit.</source>
-        <translation>Stórvægileg villa hefur átt sér stað. Reddcoin getur ekki lengur starfað öruggann hátt og mun slökkva á sér. </translation>
+        <source>A fatal error occurred. Madoocoin can no longer continue safely and will quit.</source>
+        <translation>Stórvægileg villa hefur átt sér stað. Madoocoin getur ekki lengur starfað öruggann hátt og mun slökkva á sér. </translation>
     </message>
 </context>
 <context>
@@ -820,8 +820,8 @@ Reikningur: %4
         <translation>Inn slegið reiknings númer ''%1'' sem var slegið inn er nú þegar í reikningsbókinni.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Reddcoin address.</source>
-        <translation>Inn slegið reikningsnúmer ''%1'' er ekki gilt Reddcoin reiknisnúmer.</translation>
+        <source>The entered address "%1" is not a valid Madoocoin address.</source>
+        <translation>Inn slegið reikningsnúmer ''%1'' er ekki gilt Madoocoin reiknisnúmer.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -858,8 +858,8 @@ Reikningur: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin kjarni </translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin kjarni </translation>
     </message>
     <message>
         <source>version</source>
@@ -909,8 +909,8 @@ Reikningur: %4
         <translation>Nota sérsniða gagnamöppu:</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin kjarni </translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin kjarni </translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" can not be created.</source>
@@ -971,12 +971,12 @@ Reikningur: %4
         <translation>Borga millifærslu &amp;gjald</translation>
     </message>
     <message>
-        <source>Automatically start Reddcoin after logging in to the system.</source>
-        <translation>Sjálfkrafa starta Reddcoin eftir að hafa skrá þig inn í kerfið.</translation>
+        <source>Automatically start Madoocoin after logging in to the system.</source>
+        <translation>Sjálfkrafa starta Madoocoin eftir að hafa skrá þig inn í kerfið.</translation>
     </message>
     <message>
-        <source>&amp;Start Reddcoin on system login</source>
-        <translation>&amp;Starta Reddcoin er kerfið ræsir sig </translation>
+        <source>&amp;Start Madoocoin on system login</source>
+        <translation>&amp;Starta Madoocoin er kerfið ræsir sig </translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -991,8 +991,8 @@ Reikningur: %4
         <translation>Fjöldi handrita  &amp;skráðum þráðum </translation>
     </message>
     <message>
-        <source>Connect to the Reddcoin network through a SOCKS proxy.</source>
-        <translation>Tengjast við Reddcoin netkerfið gegnum SOCKS proxy.</translation>
+        <source>Connect to the Madoocoin network through a SOCKS proxy.</source>
+        <translation>Tengjast við Madoocoin netkerfið gegnum SOCKS proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1027,8 +1027,8 @@ Reikningur: %4
         <translation>Ef þú óvirkir útgjaldalið af ó staðfestri breytingu, þá er ekki hægt að nota breytingu frá millifærslu fyrr en millifærslan hefur fengið að minsta kosti eina staðfestingu.Þetta hefur einnig áhrif á stöðu reikning þíns.</translation>
     </message>
     <message>
-        <source>Automatically open the Reddcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Opna sjálfkrafa Reddcoin þjónustugátt við router.Opna sjálfkrafa Reddcoin þjónustustjóra gátt í router. Þetta virkar bara þegar leið þín styður UPnP og er þegar virkt.</translation>
+        <source>Automatically open the Madoocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Opna sjálfkrafa Madoocoin þjónustugátt við router.Opna sjálfkrafa Madoocoin þjónustustjóra gátt í router. Þetta virkar bara þegar leið þín styður UPnP og er þegar virkt.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1083,8 +1083,8 @@ Reikningur: %4
         <translation>Notanda viðmót  &amp;tungumál:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Reddcoin.</source>
-        <translation> Hérna eru túngumála stillingar. Þessi stilling verður komið á eftir að Reddcoin hefur verið endurræst.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Madoocoin.</source>
+        <translation> Hérna eru túngumála stillingar. Þessi stilling verður komið á eftir að Madoocoin hefur verið endurræst.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1095,8 +1095,8 @@ Reikningur: %4
         <translation>Veldu sjálfgefna sjálfstjórnareiningu til að sýna í tengiborði þegar þú sendir mynt.</translation>
     </message>
     <message>
-        <source>Whether to show Reddcoin addresses in the transaction list or not.</source>
-        <translation>Hvort eigi að sýna Reddcoin reikningsnúmer í millifærslulistanum eða ekki.</translation>
+        <source>Whether to show Madoocoin addresses in the transaction list or not.</source>
+        <translation>Hvort eigi að sýna Madoocoin reikningsnúmer í millifærslulistanum eða ekki.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1150,8 +1150,8 @@ Reikningur: %4
         <translation>Form </translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Reddcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Uppgefnar upplýsingar gætu verið úreldar. Veskið þitt mun sjálfkrafa samstillast Reddcoin netkerfinu eftir að net tengingu hefur verið komið á, en þetta ferli hefur ekki klárast nú þegar.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Madoocoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Uppgefnar upplýsingar gætu verið úreldar. Veskið þitt mun sjálfkrafa samstillast Madoocoin netkerfinu eftir að net tengingu hefur verið komið á, en þetta ferli hefur ekki klárast nú þegar.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1205,8 +1205,8 @@ Reikningur: %4
         <translation>URI stjórnun  </translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Reddcoin address or malformed URI parameters.</source>
-        <translation>URI vefslóð nær ekki að þátta! Þetta getur stafað af ó gildu Reddcoin heimilisfang eða gölluð URI breytum.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Madoocoin address or malformed URI parameters.</source>
+        <translation>URI vefslóð nær ekki að þátta! Þetta getur stafað af ó gildu Madoocoin heimilisfang eða gölluð URI breytum.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1217,8 +1217,8 @@ Reikningur: %4
         <translation>Greiðslubeiðni innihélt villu </translation>
     </message>
     <message>
-        <source>Cannot start reddcoin: click-to-pay handler</source>
-        <translation>Get ekki ræst reddcoin: click-to-pay handler</translation>
+        <source>Cannot start madoocoin: click-to-pay handler</source>
+        <translation>Get ekki ræst madoocoin: click-to-pay handler</translation>
     </message>
     <message>
         <source>Net manager warning</source>
@@ -1272,8 +1272,8 @@ Reikningur: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin kjarni </translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin kjarni </translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -1394,16 +1394,16 @@ Reikningur: %4
         <translation>Af villu skráningar mappa</translation>
     </message>
     <message>
-        <source>Open the Reddcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Opna Reddcoin af villu skrá frá rétt uppfærði gagnamöppu. Þetta getur tekið nokkrar sek fyrir stærri skráningar skýrslur.      </translation>
+        <source>Open the Madoocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Opna Madoocoin af villu skrá frá rétt uppfærði gagnamöppu. Þetta getur tekið nokkrar sek fyrir stærri skráningar skýrslur.      </translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Hreinsa stjórnborð</translation>
     </message>
     <message>
-        <source>Welcome to the Reddcoin RPC console.</source>
-        <translation>Velkominn til Reddcoin RPC stjórnborðs.</translation>
+        <source>Welcome to the Madoocoin RPC console.</source>
+        <translation>Velkominn til Madoocoin RPC stjórnborðs.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1465,8 +1465,8 @@ Reikningur: %4
         <translation>E&amp;ndur nota áður notað móttökureikningsnúmer ( Mælum ekki með þessu)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Reddcoin network.</source>
-        <translation>Valfrjáls skilaboð til að festa við greiðslubeiðnina, sem verður sýnilegt þegar beiðnin er opnuð . Ath: Þessi skilaboð munu ekki vera send með greiðslu yfir Reddcoin netkerfið.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Madoocoin network.</source>
+        <translation>Valfrjáls skilaboð til að festa við greiðslubeiðnina, sem verður sýnilegt þegar beiðnin er opnuð . Ath: Þessi skilaboð munu ekki vera send með greiðslu yfir Madoocoin netkerfið.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1849,8 +1849,8 @@ Reikningur: %4
         <translation>Skilaboð:</translation>
     </message>
     <message>
-        <source>A message that was attached to the reddcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Reddcoin network.</source>
-        <translation>Skilaboð sem var fest við reddcoin: URI verður geymt með millifærslunni til viðmiðunar. Ath: Þessi skilaboð munu ekki vera send yfir Reddcoin netið.</translation>
+        <source>A message that was attached to the madoocoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Madoocoin network.</source>
+        <translation>Skilaboð sem var fest við madoocoin: URI verður geymt með millifærslunni til viðmiðunar. Ath: Þessi skilaboð munu ekki vera send yfir Madoocoin netið.</translation>
     </message>
     <message>
         <source>This is a verified payment request.</source>
@@ -1923,8 +1923,8 @@ Reikningur: %4
         <translation>Af ritaðu núverandi undirskrift til kerfis klippiborðs </translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Reddcoin address</source>
-        <translation>Ritaðu skilaboðinn til að sanna að þú eigir þennan Reddcoin reikning</translation>
+        <source>Sign the message to prove you own this Madoocoin address</source>
+        <translation>Ritaðu skilaboðinn til að sanna að þú eigir þennan Madoocoin reikning</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1947,8 +1947,8 @@ Reikningur: %4
         <translation>Sláðu inn undirskriftar reikningsnúmer, í skilaboðum(fulltryggðu að þú afritar línuskil, bil, flipa, o.s.f.r.v. nákvæmlega)og settu undirskriftina hérna fyrir neðan til að staðfesta skilaboðinn þín.Vertu varkár ekki  að lesa meira í undirskriftina en það sem er í undirrituðum skilaboðunum, til að forðast að brögð af höndum 3 aðila.</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Reddcoin address</source>
-        <translation>Staðfestu skilaboðinn til að tryggja að þau voru frá réttum Reddcoin reikningi</translation>
+        <source>Verify the message to ensure it was signed with the specified Madoocoin address</source>
+        <translation>Staðfestu skilaboðinn til að tryggja að þau voru frá réttum Madoocoin reikningi</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2014,8 +2014,8 @@ Reikningur: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin kjarni </translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin kjarni </translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2501,8 +2501,8 @@ Reikningur: %4
         <translation>Samþykkt  skipunarlína og JSON-RPC skipanir </translation>
     </message>
     <message>
-        <source>Connect to JSON-RPC on &lt;port&gt; (default: 45443 or testnet: 55443)</source>
-        <translation>Tengja við JSON-RPC við &lt;port&gt; (sjálfgefið: 45443 eða tilraunanet: 55443)</translation>
+        <source>Connect to JSON-RPC on &lt;port&gt; (default: 22443 or testnet: 35443)</source>
+        <translation>Tengja við JSON-RPC við &lt;port&gt; (sjálfgefið: 22443 eða tilraunanet: 35443)</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
@@ -2520,24 +2520,24 @@ Reikningur: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=reddcoinrpc
+rpcuser=madoocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Madoocoin Alert" admin@foo.com
 </source>
         <translation>%s, þú verður að stilla rpclykilorð inn í stillingarskrá:
 %s
 Það er mælt með að þú notir eftir farandi tilviljunarkend lykilorð:
-rpcuser=reddcoinrpc
+rpcuser=madoocoinrpc
 rpcpassword=%s
 (þú þarft ekki að muna þessi lykilorð)
 Notenda nafn og lykilorð ÞURFA EKKI að vera eins.
 Ef mappan er ekki til, búðu hana þá til með læsingum sem leyfir bara eiganda að nálgast hana.
 Það er einnig mælt með að stilla viðvörunarmerki þannig að þér er tilkynt ef vandamál koma upp:
-t.d.:alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
+t.d.:alertnotify=echo %%s | mail -s "Madoocoin Alert" admin@foo.com
 
 </translation>
     </message>
@@ -2582,8 +2582,8 @@ t.d.:alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Viðvörun: -sölugjald er stillt á mjög hátt! Þetta er millifærslu gjaldið sem þú munt borga ef þú sendir greiðsluna.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Reddcoin will not work properly.</source>
-        <translation>Viðvörun: Vinsamlegast athugaðu hvort tími og dagsetning í klukkunni þinni séu réttir! Ef klukkan er röng þá mun Reddcoin veskið ekki virka rétt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Madoocoin will not work properly.</source>
+        <translation>Viðvörun: Vinsamlegast athugaðu hvort tími og dagsetning í klukkunni þinni séu réttir! Ef klukkan er röng þá mun Madoocoin veskið ekki virka rétt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2771,12 +2771,12 @@ t.d.:alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Stilla fjölda af þráðum til miðlara RPC tengingar (sjálfgefið: 4)</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: reddcoin.conf)</source>
-        <translation>Tilgreinið stillingaskrá (sjálfgefið: reddcoin.conf)</translation>
+        <source>Specify configuration file (default: madoocoin.conf)</source>
+        <translation>Tilgreinið stillingaskrá (sjálfgefið: madoocoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: reddcoind.pid)</source>
-        <translation>Tilgreinið pid möppu (sjálfgefið: reddcoind.pid)</translation>
+        <source>Specify pid file (default: madoocoind.pid)</source>
+        <translation>Tilgreinið pid möppu (sjálfgefið: madoocoind.pid)</translation>
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
@@ -2907,8 +2907,8 @@ t.d.:alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Millifærslan er of stór </translation>
     </message>
     <message>
-        <source>Usage (deprecated, use reddcoin-cli):</source>
-        <translation>Notkun (úrelt, notið reddcoin-CLI):</translation>
+        <source>Usage (deprecated, use madoocoin-cli):</source>
+        <translation>Notkun (úrelt, notið madoocoin-CLI):</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 0)</source>
@@ -2999,12 +2999,12 @@ t.d.:alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Villa við að hlaða wallet.dat: Veskið er skemmd </translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Reddcoin</source>
-        <translation>Villa við að hlaða wallet.dat:  Veskið fer fram á nýrri útgáfu af Reddcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Madoocoin</source>
+        <translation>Villa við að hlaða wallet.dat:  Veskið fer fram á nýrri útgáfu af Madoocoin</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Reddcoin to complete</source>
-        <translation>Veskið þarf að verða endur skrifað: Endur ræstu Reddcoin til að ljúka</translation>
+        <source>Wallet needed to be rewritten: restart Madoocoin to complete</source>
+        <translation>Veskið þarf að verða endur skrifað: Endur ræstu Madoocoin til að ljúka</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

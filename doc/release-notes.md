@@ -1,25 +1,25 @@
-Reddcoin Core version 2.0.1 is now available from:
+Madoocoin Core version 2.0.1 is now available from:
 
-  https://www.reddcoin.com/#Wallets
+  https://www.madoocoin.com/#Wallets
 
-This is a new minor version release of Reddcoin,
-Previously, the original and sunsequent versions of Reddcoin were taken from a fork of Litecoin.
-With the release of Reddcoin V2.0.0, is now based directly from a fork Bitcoin.
+This is a new minor version release of Madoocoin,
+Previously, the original and sunsequent versions of Madoocoin were taken from a fork of Litecoin.
+With the release of Madoocoin V2.0.0, is now based directly from a fork Bitcoin.
 This allows for better source control and feature implementaion from upstream changes
 
 Upgrading to this release is recommended.
 
 Please report bugs using the issue tracker at github:
 
-  https://github.com/reddcoin-project/reddcoin/issues
+  https://github.com/madoocoin-project/madoocoin/issues
 
 How to Upgrade
 ===============
 
-If you are running an older version of Reddcoin, shut it down. Wait until it has completely
+If you are running an older version of Madoocoin, shut it down. Wait until it has completely
 shut down (which might take a few minutes for older versions), then run the
-installer (on Windows) or just copy over /Applications/Reddcoin-Qt (on Mac) or
-reddcoind/reddcoin-qt (on Linux).
+installer (on Windows) or just copy over /Applications/Madoocoin-Qt (on Mac) or
+madoocoind/madoocoin-qt (on Linux).
 
 Start wallet
 
@@ -29,18 +29,18 @@ Notable changes
 Core base code
 ------------------------------------
 
-Reddcoin v2.0.0.0 was forked from Bitcoin v0.9.5
+Madoocoin v2.0.0.0 was forked from Bitcoin v0.9.5
 
 Staking and relay policy enhancements
 ------------------------------------
 
-To implement BIP66, Reddcoin Core's block templates are now for version 4 blocks only.
+To implement BIP66, Madoocoin Core's block templates are now for version 4 blocks only.
 When BIP66 concensus (Supermajority 6120/7200) is reached, only v4 blocks will be accepted by the network.
 and any staking
 
 OP_Return and data in the blockchain
 ------------------------------------
-Reddcoin allows storing 80bytes of arbitary data in the blockchain
+Madoocoin allows storing 80bytes of arbitary data in the blockchain
 
 2.0.1 changelog
 ===============
@@ -78,7 +78,7 @@ Thanks to everyone who contributed to coding, testing and feedback for this rele
 - @Sjolus
 
 
-As well as everyone that helped translating on [Transifex](https://www.transifex.com/reddcoin/reddcoin/).
+As well as everyone that helped translating on [Transifex](https://www.transifex.com/madoocoin/madoocoin/).
 - @Serkan34
 - @Syar
 - @ricklopez

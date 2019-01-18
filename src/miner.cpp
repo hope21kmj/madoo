@@ -14,7 +14,7 @@
 #endif
 //////////////////////////////////////////////////////////////////////////////
 //
-// ReddcoinMiner
+// MadoocoinMiner
 //
 
 int static FormatHashBlocks(void* pbuffer, unsigned int len)
@@ -513,7 +513,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
         return false;
 
     //// debug print
-    LogPrintf("ReddcoinMiner:\n");
+    LogPrintf("MadoocoinMiner:\n");
     LogPrintf("proof-of-work found  \n  hash: %s  \ntarget: %s\n", hash.GetHex(), hashTarget.GetHex());
     pblock->print();
     LogPrintf("mined %s\n", FormatMoney(pblock->vtx[0].vout[0].nValue));
@@ -522,7 +522,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
     {
         LOCK(cs_main);
         if (pblock->hashPrevBlock != chainActive.Tip()->GetBlockHash())
-            return error("ReddcoinMiner : mined block is stale");
+            return error("MadoocoinMiner : mined block is stale");
 
         // Remove key from key pool
         reservekey.KeepKey();
@@ -536,7 +536,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
         // Process this block the same as if we had received it from another node
         CValidationState state;
         if (!ProcessBlock(state, NULL, pblock))
-            return error("ReddcoinMiner : ProcessBlock, block not accepted");
+            return error("MadoocoinMiner : ProcessBlock, block not accepted");
     }
 
     return true;
@@ -555,7 +555,7 @@ bool CheckStake(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
         return error("CheckStake() : proof-of-stake checking failed");
 
     //// debug print
-    LogPrintf("ReddcoinStaker: proof-of-stake found  \n  hash: %s\n  stake: %s\n  target: %s\n", hash.GetHex(), hashStake.GetHex(), hashTarget.GetHex());
+    LogPrintf("MadoocoinStaker: proof-of-stake found  \n  hash: %s\n  stake: %s\n  target: %s\n", hash.GetHex(), hashStake.GetHex(), hashTarget.GetHex());
     pblock->print();
     LogPrintf("minted %s\n", FormatMoney(pblock->vtx[1].GetValueOut()));
 
@@ -563,7 +563,7 @@ bool CheckStake(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
     {
         LOCK(cs_main);
         if (pblock->hashPrevBlock != chainActive.Tip()->GetBlockHash())
-            return error("ReddcoinStaker : minted block is stale");
+            return error("MadoocoinStaker : minted block is stale");
 
         // Remove key from key pool
         reservekey.KeepKey();
@@ -577,19 +577,19 @@ bool CheckStake(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
         // Process this block the same as if we had received it from another node
         CValidationState state;
         if (!ProcessBlock(state, NULL, pblock))
-            return error("ReddcoinStaker : ProcessBlock, block not accepted");
+            return error("MadoocoinStaker : ProcessBlock, block not accepted");
     }
 
     return true;
 }
 
-void ReddcoinStaker(CWallet *pwallet)
+void MadoocoinStaker(CWallet *pwallet)
 {
-    LogPrintf("ReddcoinStaker started\n");
+    LogPrintf("MadoocoinStaker started\n");
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
 
     // Make this thread recognisable as the staking thread
-    RenameThread("reddcoin-staker");
+    RenameThread("madoocoin-staker");
     CReserveKey reservekey(pwallet);
 
     try { while (true) {
@@ -599,7 +599,7 @@ void ReddcoinStaker(CWallet *pwallet)
             while (vNodes.empty())
             {
                 // Busy-wait for the network to come online.
-                LogPrintf("ReddcoinStaker : Waiting for network online.\n");
+                LogPrintf("MadoocoinStaker : Waiting for network online.\n");
                 nLastCoinStakeSearchInterval = 0;
                 MilliSleep(1000);
             }
@@ -608,20 +608,20 @@ void ReddcoinStaker(CWallet *pwallet)
         while (IsInitialBlockDownload()) 
         {
             // Busy-wait for the download of the blockchain to complete
-            LogPrintf("ReddcoinStaker : Waiting... Blockchain Downloading.\n");
+            LogPrintf("MadoocoinStaker : Waiting... Blockchain Downloading.\n");
             MilliSleep(60000);
         }
 
         while (pwallet->IsLocked())
         {
-            LogPrintf("ReddcoinStaker : Wallet is locked.\n");
+            LogPrintf("MadoocoinStaker : Wallet is locked.\n");
             nLastCoinStakeSearchInterval = 0;
             MilliSleep(1000);
         }
 
         while (chainActive.Tip()->nHeight < Params().LastProofOfWorkHeight())
         {
-            LogPrintf("ReddcoinStaker : Chaintip < Last POW.\n");
+            LogPrintf("MadoocoinStaker : Chaintip < Last POW.\n");
             MilliSleep(60000);
         }
 
@@ -644,22 +644,22 @@ void ReddcoinStaker(CWallet *pwallet)
         }
         else
         {
-            // LogPrintf("ReddcoinStaker : Failed to sign the new block.\n");
+            // LogPrintf("MadoocoinStaker : Failed to sign the new block.\n");
             MilliSleep(1000);
         }
     } }
     catch (boost::thread_interrupted)
     {
-        LogPrintf("ReddcoinStaker terminated\n");
+        LogPrintf("MadoocoinStaker terminated\n");
         throw;
     }
 }
 
-void static ReddcoinMiner(CWallet *pwallet)
+void static MadoocoinMiner(CWallet *pwallet)
 {
-    LogPrintf("ReddcoinMiner started\n");
+    LogPrintf("MadoocoinMiner started\n");
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
-    RenameThread("reddcoin-miner");
+    RenameThread("madoocoin-miner");
 
     // Each thread has its own key and counter
     CReserveKey reservekey(pwallet);
@@ -670,7 +670,7 @@ void static ReddcoinMiner(CWallet *pwallet)
             // Busy-wait for the network to come online so we don't waste time mining
             // on an obsolete chain. In regtest mode we expect to fly solo.
             while (vNodes.empty()){
-                LogPrintf("ReddcoinMiner : Waiting for network online.\n");
+                LogPrintf("MadoocoinMiner : Waiting for network online.\n");
                 MilliSleep(1000);
             }
         }
@@ -678,7 +678,7 @@ void static ReddcoinMiner(CWallet *pwallet)
         while (IsInitialBlockDownload()) 
         {
             // Busy-wait for the download of the blockchain to complete
-            LogPrintf("ReddcoinMiner : Waiting... Blockchain Downloading.\n");
+            LogPrintf("MadoocoinMiner : Waiting... Blockchain Downloading.\n");
             MilliSleep(60000);
         }
 
@@ -696,13 +696,13 @@ void static ReddcoinMiner(CWallet *pwallet)
         // exit if received a PoSV block template
         if (pblock->vtx[0].vout[0].IsEmpty())
         {
-            LogPrintf("ReddcoinMiner : no more PoW blocks\n");
+            LogPrintf("MadoocoinMiner : no more PoW blocks\n");
             return;
         }
 
         IncrementExtraNonce(pblock, pindexPrev, nExtraNonce);
 
-        LogPrintf("Running ReddcoinMiner with %u transactions in block (%u bytes)\n", pblock->vtx.size(),
+        LogPrintf("Running MadoocoinMiner with %u transactions in block (%u bytes)\n", pblock->vtx.size(),
                ::GetSerializeSize(*pblock, SER_NETWORK, PROTOCOL_VERSION));
 
         //
@@ -813,12 +813,12 @@ void static ReddcoinMiner(CWallet *pwallet)
     } }
     catch (boost::thread_interrupted)
     {
-        LogPrintf("ReddcoinMiner terminated\n");
+        LogPrintf("MadoocoinMiner terminated\n");
         throw;
     }
 }
 
-void GenerateReddcoins(bool fGenerate, CWallet* pwallet, int nThreads)
+void GenerateMadoocoins(bool fGenerate, CWallet* pwallet, int nThreads)
 {
     static boost::thread_group* minerThreads = NULL;
 
@@ -835,7 +835,7 @@ void GenerateReddcoins(bool fGenerate, CWallet* pwallet, int nThreads)
     minerThreads = new boost::thread_group();
 
     // start one thread for PoSV minting
-    minerThreads->create_thread(boost::bind(&ReddcoinStaker, pwallet));
+    minerThreads->create_thread(boost::bind(&MadoocoinStaker, pwallet));
 
     if (nThreads < 0) {
         if (Params().NetworkID() == CChainParams::REGTEST)
@@ -847,7 +847,7 @@ void GenerateReddcoins(bool fGenerate, CWallet* pwallet, int nThreads)
    
 
     for (int i = 0; i < nThreads; i++)
-        minerThreads->create_thread(boost::bind(&ReddcoinMiner, pwallet));
+        minerThreads->create_thread(boost::bind(&MadoocoinMiner, pwallet));
 }
 
 #endif

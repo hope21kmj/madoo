@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Reddcoin Core</source>
-        <translation>O Reddcoin Core</translation>
+        <source>About Madoocoin Core</source>
+        <translation>O Madoocoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Reddcoin Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Reddcoin&lt;/b&gt; verze</translation>
+        <source>&lt;b&gt;Madoocoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Madoocoin&lt;/b&gt; verze</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Reddcoin Core developers</source>
-        <translation>Vývojáři Reddcoin Core</translation>
+        <source>The Madoocoin Core developers</source>
+        <translation>Vývojáři Madoocoin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -103,12 +103,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Přijímací adresy</translation>
     </message>
     <message>
-        <source>These are your Reddcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé Reddcoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <source>These are your Madoocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tohle jsou tvé Madoocoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
-        <source>These are your Reddcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tohle jsou tvé Reddcoinové adresy pro příjem plateb. Je doporučené používat pokaždé novou adresu pro každou transakci.</translation>
+        <source>These are your Madoocoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tohle jsou tvé Madoocoinové adresy pro příjem plateb. Je doporučené používat pokaždé novou adresu pro každou transakci.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -205,8 +205,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Potvrď zašifrování peněženky</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REDDCOINS&lt;/b&gt;!</source>
-        <translation>Upozornění: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY REDDCOINY&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MADOOCOINS&lt;/b&gt;!</source>
+        <translation>Upozornění: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY MADOOCOINY&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -225,8 +225,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Peněženka je zašifrována</translation>
     </message>
     <message>
-        <source>Reddcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your reddcoins from being stolen by malware infecting your computer.</source>
-        <translation>Reddcoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých bitcoinů malwarem, kterým se může počítač nakazit.</translation>
+        <source>Madoocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your madoocoins from being stolen by malware infecting your computer.</source>
+        <translation>Madoocoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých bitcoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -284,8 +284,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Vyžádat </translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and reddcoin: URIs)</source>
-        <translation>Požaduj platby (generuje QR kódy a reddcoin: URI)</translation>
+        <source>Request payments (generates QR codes and madoocoin: URIs)</source>
+        <translation>Požaduj platby (generuje QR kódy a madoocoin: URI)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -304,8 +304,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Ukonči aplikaci</translation>
     </message>
     <message>
-        <source>Show information about Reddcoin</source>
-        <translation>Zobraz informace o Reddcoinu</translation>
+        <source>Show information about Madoocoin</source>
+        <translation>Zobraz informace o Madoocoinu</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -352,12 +352,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Načíst &amp;URI...</translation>
     </message>
     <message>
-        <source>Open a reddcoin: URI or payment request</source>
-        <translation>Načti reddcoin: URI nebo platební požadavek</translation>
+        <source>Open a madoocoin: URI or payment request</source>
+        <translation>Načti madoocoin: URI nebo platební požadavek</translation>
     </message>
     <message>
-        <source>Reddcoin Core client</source>
-        <translation>Reddcoin Core klient</translation>
+        <source>Madoocoin Core client</source>
+        <translation>Madoocoin Core klient</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -368,12 +368,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Vytvářím nový index bloků na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Reddcoin address</source>
-        <translation>Pošli mince na Reddcoinovou adresu</translation>
+        <source>Send coins to a Madoocoin address</source>
+        <translation>Pošli mince na Madoocoinovou adresu</translation>
     </message>
     <message>
-        <source>Modify configuration options for Reddcoin</source>
-        <translation>Uprav nastavení Reddcoinu</translation>
+        <source>Modify configuration options for Madoocoin</source>
+        <translation>Uprav nastavení Madoocoinu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -396,8 +396,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Ověř zprávu...</translation>
     </message>
     <message>
-        <source>Reddcoin</source>
-        <translation>Reddcoin</translation>
+        <source>Madoocoin</source>
+        <translation>Madoocoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -420,12 +420,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Zašifruj soukromé klíče ve své peněžence</translation>
     </message>
     <message>
-        <source>Sign messages with your Reddcoin addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými Reddcoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <source>Sign messages with your Madoocoin addresses to prove you own them</source>
+        <translation>Podepiš zprávy svými Madoocoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Reddcoin addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Reddcoinovými adresami</translation>
+        <source>Verify messages to ensure they were signed with specified Madoocoin addresses</source>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Madoocoinovými adresami</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -448,12 +448,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
-        <source>&amp;About Reddcoin Core</source>
-        <translation>O &amp;Reddcoin Core</translation>
+        <source>&amp;About Madoocoin Core</source>
+        <translation>O &amp;Madoocoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -468,12 +468,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Ar&amp;gumenty z příkazové řádky</translation>
     </message>
     <message>
-        <source>Show the Reddcoin Core help message to get a list with possible Reddcoin command-line options</source>
-        <translation>Seznam argumentů Reddcoinu pro příkazovou řádku získáš v nápovědě Bitcoinu Core</translation>
+        <source>Show the Madoocoin Core help message to get a list with possible Madoocoin command-line options</source>
+        <translation>Seznam argumentů Madoocoinu pro příkazovou řádku získáš v nápovědě Bitcoinu Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Reddcoin network</source>
-        <translation><numerusform>%n aktivní spojení do Reddcoinové sítě</numerusform><numerusform>%n aktivní spojení do Reddcoinové sítě</numerusform><numerusform>%n aktivních spojení do Reddcoinové sítě</numerusform></translation>
+        <source>%n active connection(s) to Madoocoin network</source>
+        <translation><numerusform>%n aktivní spojení do Madoocoinové sítě</numerusform><numerusform>%n aktivní spojení do Madoocoinové sítě</numerusform><numerusform>%n aktivních spojení do Madoocoinové sítě</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -560,8 +560,8 @@ Adresa: %4
         <translation>Peněženka je &lt;b&gt;zašifrovaná&lt;/b&gt; a momentálně &lt;b&gt;zamčená&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Reddcoin can no longer continue safely and will quit.</source>
-        <translation>Stala se fatální chyba. Reddcoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
+        <source>A fatal error occurred. Madoocoin can no longer continue safely and will quit.</source>
+        <translation>Stala se fatální chyba. Madoocoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
     </message>
 </context>
 <context>
@@ -845,8 +845,8 @@ Adresa: %4
         <translation>Zadaná adresa "%1" už v adresáři je.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Reddcoin address.</source>
-        <translation>Zadaná adresa "%1" není platná Reddcoinová adresa.</translation>
+        <source>The entered address "%1" is not a valid Madoocoin address.</source>
+        <translation>Zadaná adresa "%1" není platná Madoocoinová adresa.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -883,12 +883,12 @@ Adresa: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Reddcoin Core - Command-line options</source>
-        <translation>ReddcoinCore – Argumenty z příkazové řádky</translation>
+        <source>Madoocoin Core - Command-line options</source>
+        <translation>MadoocoinCore – Argumenty z příkazové řádky</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -934,16 +934,16 @@ Adresa: %4
         <translation>Vítej</translation>
     </message>
     <message>
-        <source>Welcome to Reddcoin Core.</source>
-        <translation>Vítej v Reddcoin Core.</translation>
+        <source>Welcome to Madoocoin Core.</source>
+        <translation>Vítej v Madoocoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Reddcoin Core will store its data.</source>
-        <translation>Tohle je poprvé, co spouštíš Reddcoin Core, takže si můžeš zvolit, kam bude ukládat svá data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Madoocoin Core will store its data.</source>
+        <translation>Tohle je poprvé, co spouštíš Madoocoin Core, takže si můžeš zvolit, kam bude ukládat svá data.</translation>
     </message>
     <message>
-        <source>Reddcoin Core will download and store a copy of the Reddcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Reddcoin Core bude stahovat kopii řetězce bloků. Proto bude potřeba do tohoto adresáře uložit nejméně %1 GB dat – toto číslo bude navíc v průběhu času pomalu růst. Tvá peněženka bude rovněž uložena v tomto adresáři.</translation>
+        <source>Madoocoin Core will download and store a copy of the Madoocoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Madoocoin Core bude stahovat kopii řetězce bloků. Proto bude potřeba do tohoto adresáře uložit nejméně %1 GB dat – toto číslo bude navíc v průběhu času pomalu růst. Tvá peněženka bude rovněž uložena v tomto adresáři.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -954,8 +954,8 @@ Adresa: %4
         <translation>Použij tento adresář pro data:</translation>
     </message>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" can not be created.</source>
@@ -1016,12 +1016,12 @@ Adresa: %4
         <translation>Platit &amp;transakční poplatek</translation>
     </message>
     <message>
-        <source>Automatically start Reddcoin after logging in to the system.</source>
-        <translation>Automaticky spustí Reddcoin po přihlášení do systému.</translation>
+        <source>Automatically start Madoocoin after logging in to the system.</source>
+        <translation>Automaticky spustí Madoocoin po přihlášení do systému.</translation>
     </message>
     <message>
-        <source>&amp;Start Reddcoin on system login</source>
-        <translation>S&amp;pustit Reddcoin po přihlášení do systému</translation>
+        <source>&amp;Start Madoocoin on system login</source>
+        <translation>S&amp;pustit Madoocoin po přihlášení do systému</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1036,8 +1036,8 @@ Adresa: %4
         <translation>Počet vláken pro &amp;verifikaci skriptů</translation>
     </message>
     <message>
-        <source>Connect to the Reddcoin network through a SOCKS proxy.</source>
-        <translation>Připojí se do Reddcoinové sítě přes SOCKS proxy.</translation>
+        <source>Connect to the Madoocoin network through a SOCKS proxy.</source>
+        <translation>Připojí se do Madoocoinové sítě přes SOCKS proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1096,7 +1096,7 @@ Adresa: %4
         <translation>&amp;Utrácet i ještě nepotvrzené drobné</translation>
     </message>
     <message>
-        <source>Automatically open the Reddcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Madoocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automaticky otevře potřebný port na routeru. Tohle funguje jen za předpokladu, že tvůj router podporuje UPnP a že je UPnP povolené.</translation>
     </message>
     <message>
@@ -1152,8 +1152,8 @@ Adresa: %4
         <translation>&amp;Jazyk uživatelského rozhraní:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Reddcoin.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Reddcoinu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Madoocoin.</source>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Madoocoinu.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1164,7 +1164,7 @@ Adresa: %4
         <translation>Zvol výchozí podjednotku, která se bude zobrazovat v programu a při posílání mincí.</translation>
     </message>
     <message>
-        <source>Whether to show Reddcoin addresses in the transaction list or not.</source>
+        <source>Whether to show Madoocoin addresses in the transaction list or not.</source>
         <translation>Zda ukazovat bitcoinové adresy ve výpisu transakcí nebo ne.</translation>
     </message>
     <message>
@@ -1219,8 +1219,8 @@ Adresa: %4
         <translation>Formulář</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Reddcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Reddcoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Madoocoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Madoocoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1274,8 +1274,8 @@ Adresa: %4
         <translation>Zpracování URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Reddcoin address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Reddcoinová adresa nebo poškozené parametry URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Madoocoin address or malformed URI parameters.</source>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Madoocoinová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1286,8 +1286,8 @@ Adresa: %4
         <translation>Chyba platebního požadavku</translation>
     </message>
     <message>
-        <source>Cannot start reddcoin: click-to-pay handler</source>
-        <translation>Nemůžu spustit reddcoin: obsluha click-to-pay</translation>
+        <source>Cannot start madoocoin: click-to-pay handler</source>
+        <translation>Nemůžu spustit madoocoin: obsluha click-to-pay</translation>
     </message>
     <message>
         <source>Net manager warning</source>
@@ -1341,8 +1341,8 @@ Adresa: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -1357,12 +1357,12 @@ Adresa: %4
         <translation>Chyba: Neplatná kombinace -regtest a -testnet.</translation>
     </message>
     <message>
-        <source>Reddcoin Core didn't yet exit safely...</source>
-        <translation>Reddcoin Core ještě bezpečně neskončil...</translation>
+        <source>Madoocoin Core didn't yet exit safely...</source>
+        <translation>Madoocoin Core ještě bezpečně neskončil...</translation>
     </message>
     <message>
-        <source>Enter a Reddcoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Zadej Reddcoinovou adresu (např. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>Enter a Madoocoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Zadej Madoocoinovou adresu (např. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
 </context>
 <context>
@@ -1479,16 +1479,16 @@ Adresa: %4
         <translation>Soubor s ladicími záznamy</translation>
     </message>
     <message>
-        <source>Open the Reddcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy Reddcoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <source>Open the Madoocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři soubor s ladicími záznamy Madoocoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Vyčistit konzoli</translation>
     </message>
     <message>
-        <source>Welcome to the Reddcoin RPC console.</source>
-        <translation>Vítej v Reddcoinové RPC konzoli.</translation>
+        <source>Welcome to the Madoocoin RPC console.</source>
+        <translation>Vítej v Madoocoinové RPC konzoli.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1550,8 +1550,8 @@ Adresa: %4
         <translation>&amp;Recyklovat již existující adresy (nedoporučeno)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Reddcoin network.</source>
-        <translation>Volitelná zpráva, která se připojí k platebnímu požadavku a která se zobrazí, když se požadavek otevře. Poznámka: Tahle zpráva se neposílá s platbou po Reddcoinové síti.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Madoocoin network.</source>
+        <translation>Volitelná zpráva, která se připojí k platebnímu požadavku a která se zobrazí, když se požadavek otevře. Poznámka: Tahle zpráva se neposílá s platbou po Madoocoinové síti.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1863,8 +1863,8 @@ Adresa: %4
         <translation>Transakce byla odmítnuta! Tohle může nastat, pokud nějaké mince z tvé peněženky už jednou byly utraceny, například pokud používáš kopii souboru wallet.dat a mince byly utraceny v druhé kopii, ale nebyly označeny jako utracené v této.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Reddcoin address</source>
-        <translation>Upozornění: Neplatná Reddcoinová adresa</translation>
+        <source>Warning: Invalid Madoocoin address</source>
+        <translation>Upozornění: Neplatná Madoocoinová adresa</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1918,8 +1918,8 @@ Adresa: %4
         <translation>Tohle je normální platba.</translation>
     </message>
     <message>
-        <source>The Reddcoin address to send the payment to (e.g. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</source>
-        <translation>Reddcoinová adresa příjemce (např. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</translation>
+        <source>The Madoocoin address to send the payment to (e.g. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</source>
+        <translation>Madoocoinová adresa příjemce (např. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1942,8 +1942,8 @@ Adresa: %4
         <translation>Zpráva:</translation>
     </message>
     <message>
-        <source>A message that was attached to the reddcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Reddcoin network.</source>
-        <translation>Zpráva, která byla připojena k reddcoin: URI a která se ti pro přehled uloží k transakci. Poznámka: Tahle zpráva se neposílá s platbou po Reddcoinové síti.</translation>
+        <source>A message that was attached to the madoocoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Madoocoin network.</source>
+        <translation>Zpráva, která byla připojena k madoocoin: URI a která se ti pro přehled uloží k transakci. Poznámka: Tahle zpráva se neposílá s platbou po Madoocoinové síti.</translation>
     </message>
     <message>
         <source>This is a verified payment request.</source>
@@ -1969,8 +1969,8 @@ Adresa: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Reddcoin Core is shutting down...</source>
-        <translation>Reddcoin Core se ukončuje...</translation>
+        <source>Madoocoin Core is shutting down...</source>
+        <translation>Madoocoin Core se ukončuje...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1992,8 +1992,8 @@ Adresa: %4
         <translation>Podepsáním zprávy svými adresami můžeš prokázat, že je skutečně vlastníš. Buď opatrný a nepodepisuj nic vágního; například při phishingových útocích můžeš být lákán, abys něco takového podepsal. Podepisuj pouze zcela úplná a detailní prohlášení, se kterými souhlasíš.</translation>
     </message>
     <message>
-        <source>The Reddcoin address to sign the message with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Reddcoinová adresa, kterou se zpráva podepíše (např. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>The Madoocoin address to sign the message with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Madoocoinová adresa, kterou se zpráva podepíše (např. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2024,8 +2024,8 @@ Adresa: %4
         <translation>Zkopíruj tento podpis do schránky</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Reddcoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Reddcoinové adresy</translation>
+        <source>Sign the message to prove you own this Madoocoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Madoocoinové adresy</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2048,12 +2048,12 @@ Adresa: %4
         <translation>K ověření podpisu zprávy zadej podepisující adresu, zprávu (ověř si, že správně kopíruješ zalomení řádků, mezery, tabulátory apod.) a podpis. Dávej pozor na to, abys nezkopíroval do podpisu víc, než co je v samotné podepsané zprávě, abys nebyl napálen man-in-the-middle útokem.</translation>
     </message>
     <message>
-        <source>The Reddcoin address the message was signed with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Reddcoinová adresa, kterou je zpráva podepsána (např. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>The Madoocoin address the message was signed with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Madoocoinová adresa, kterou je zpráva podepsána (např. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Reddcoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Reddcoinovou adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Madoocoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Madoocoinovou adresou</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2068,8 +2068,8 @@ Adresa: %4
         <translation>Kliknutím na „Podepiš zprávu“ vygeneruješ podpis</translation>
     </message>
     <message>
-        <source>Enter a Reddcoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Zadej Reddcoinovou adresu (např. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>Enter a Madoocoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Zadej Madoocoinovou adresu (např. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
@@ -2123,12 +2123,12 @@ Adresa: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
-        <source>The Reddcoin Core developers</source>
-        <translation>Vývojáři Reddcoin Core</translation>
+        <source>The Madoocoin Core developers</source>
+        <translation>Vývojáři Madoocoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2638,8 +2638,8 @@ Adresa: %4
         <translation>Akceptovat příkazy z příkazové řádky a přes JSON-RPC</translation>
     </message>
     <message>
-        <source>Connect to JSON-RPC on &lt;port&gt; (default: 45443 or testnet: 55443)</source>
-        <translation>Připojit se k JSON RPC na &lt;port&gt; (výchozí: 45443 nebo testnet: 55443)</translation>
+        <source>Connect to JSON-RPC on &lt;port&gt; (default: 22443 or testnet: 35443)</source>
+        <translation>Připojit se k JSON RPC na &lt;port&gt; (výchozí: 22443 nebo testnet: 35443)</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
@@ -2653,24 +2653,24 @@ Adresa: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=reddcoinrpc
+rpcuser=madoocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Madoocoin Alert" admin@foo.com
 </source>
         <translation>%s, musíš nastavit rpcpassword v konfiguračním souboru:
 %s
 Je vhodné použít následující náhodné heslo:
-rpcuser=reddcoinrpc
+rpcuser=madoocoinrpc
 rpcpassword=%s
 (není potřeba si ho pamatovat)
 rpcuser a rpcpassword NESMÍ být stejné.
 Pokud konfigurační soubor ještě neexistuje, vytvoř ho tak, aby ho mohl číst pouze vlastník.
 Je také doporučeno si nastavit alertnotify, abys byl upozorněn na případné problémy;
-například: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
+například: alertnotify=echo %%s | mail -s "Madoocoin Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -2726,16 +2726,16 @@ například: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>V tomto módu -genproclimit určuje, kolik bloků je vygenerováno okamžitě.</translation>
     </message>
     <message>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 45443 or testnet: 55443)</source>
-        <translation>Čekat na JSON RPC spojení na &lt;portu&gt; (výchozí: 45443 nebo testnet: 55443)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22443 or testnet: 35443)</source>
+        <translation>Čekat na JSON RPC spojení na &lt;portu&gt; (výchozí: 22443 nebo testnet: 35443)</translation>
     </message>
     <message>
         <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>
         <translation>Nastavení počtu vláken pro verifikaci skriptů (%u až %d, 0 = automaticky, &lt;0 = nechat daný počet jader volný, výchozí: %d)</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Reddcoin Core is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. Reddcoin Core už pravděpodobně jednou běží.</translation>
+        <source>Unable to bind to %s on this computer. Madoocoin Core is probably already running.</source>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. Madoocoin Core už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: -proxy)</source>
@@ -2746,8 +2746,8 @@ například: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Upozornění: -paytxfee je nastaveno velmi vysoko! Toto je transakční poplatek, který zaplatíš za každou poslanou transakci.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Reddcoin will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Reddcoin nebude fungovat správně.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Madoocoin will not work properly.</source>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Madoocoin nebude fungovat správně.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2926,8 +2926,8 @@ například: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Nemám žádný nebo jen špatný genesis blok. Není špatně nastavený datadir?</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Reddcoin Core is shutting down.</source>
-        <translation>Selhala úvodní zevrubná prověrka. Reddcoin Core se ukončuje.</translation>
+        <source>Initialization sanity check failed. Madoocoin Core is shutting down.</source>
+        <translation>Selhala úvodní zevrubná prověrka. Madoocoin Core se ukončuje.</translation>
     </message>
     <message>
         <source>Invalid -onion address: '%s'</source>
@@ -2954,8 +2954,8 @@ například: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Připojit před ladicí výstup časové razítko (výchozí: 1)</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the wiki.reddcoin.com for SSL setup instructions)</source>
-        <translation>Možnosti SSL pro RPC: (viz instrukce nastavení SSL na wiki.reddcoin.com)</translation>
+        <source>RPC SSL options: (see the wiki.madoocoin.com for SSL setup instructions)</source>
+        <translation>Možnosti SSL pro RPC: (viz instrukce nastavení SSL na wiki.madoocoin.com)</translation>
     </message>
     <message>
         <source>RPC client options:</source>
@@ -2982,12 +2982,12 @@ například: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Nastavení počtu vláken pro servisní RPC volání (výchozí: 4)</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: reddcoin.conf)</source>
-        <translation>Konfigurační soubor (výchozí: reddcoin.conf)</translation>
+        <source>Specify configuration file (default: madoocoin.conf)</source>
+        <translation>Konfigurační soubor (výchozí: madoocoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: reddcoind.pid)</source>
-        <translation>PID soubor (výchozí: reddcoind.pid)</translation>
+        <source>Specify pid file (default: madoocoind.pid)</source>
+        <translation>PID soubor (výchozí: madoocoind.pid)</translation>
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
@@ -3038,8 +3038,8 @@ například: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Importovat bloky z externího souboru blk000??.dat</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Reddcoin Core is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. Reddcoin Core pravděpodobně už jednou běží.</translation>
+        <source>Cannot obtain a lock on data directory %s. Madoocoin Core is probably already running.</source>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. Madoocoin Core pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -3082,8 +3082,8 @@ například: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Omezit velikost vyrovnávací paměti pro podpisy na &lt;n&gt; položek (výchozí: 50000)</translation>
     </message>
     <message>
-        <source>Listen for connections on &lt;port&gt; (default: 45444 or testnet: 55444)</source>
-        <translation>Čekat na spojení na &lt;portu&gt; (výchozí: 45444 nebo testnet: 55444)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 22444 or testnet: 35444)</source>
+        <translation>Čekat na spojení na &lt;portu&gt; (výchozí: 22444 nebo testnet: 35444)</translation>
     </message>
     <message>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</source>
@@ -3122,24 +3122,24 @@ například: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Náhodně pozměňovat 1 z každých &lt;n&gt; síťových zpráv</translation>
     </message>
     <message>
-        <source>Reddcoin Core Daemon</source>
-        <translation>Reddcoin Core Démon</translation>
+        <source>Madoocoin Core Daemon</source>
+        <translation>Madoocoin Core Démon</translation>
     </message>
     <message>
-        <source>Reddcoin Core RPC client version</source>
-        <translation>Verze Reddcoin Core RPC klienta</translation>
+        <source>Madoocoin Core RPC client version</source>
+        <translation>Verze Madoocoin Core RPC klienta</translation>
     </message>
     <message>
-        <source>SSL options: (see the Reddcoin Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL pro RPC: (viz instrukce nastavení SSL na Reddcoin Wiki)</translation>
+        <source>SSL options: (see the Madoocoin Wiki for SSL setup instructions)</source>
+        <translation>Možnosti SSL pro RPC: (viz instrukce nastavení SSL na Madoocoin Wiki)</translation>
     </message>
     <message>
-        <source>Send command to Reddcoin Core</source>
-        <translation>Poslat příkaz Reddcoin Core</translation>
+        <source>Send command to Madoocoin Core</source>
+        <translation>Poslat příkaz Madoocoin Core</translation>
     </message>
     <message>
-        <source>Send command to reddcoin Core</source>
-        <translation>Poslat příkaz reddcoin Core</translation>
+        <source>Send command to madoocoin Core</source>
+        <translation>Poslat příkaz madoocoin Core</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -3174,8 +3174,8 @@ například: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Zadej časový limit spojení v milisekundách (výchozí: 5000)</translation>
     </message>
     <message>
-        <source>Start Reddcoin Core Daemon</source>
-        <translation>Spustit Reddcoin Core Démona</translation>
+        <source>Start Madoocoin Core Daemon</source>
+        <translation>Spustit Madoocoin Core Démona</translation>
     </message>
     <message>
         <source>System error: </source>
@@ -3194,8 +3194,8 @@ například: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Transace je příliš velká</translation>
     </message>
     <message>
-        <source>Usage (deprecated, use reddcoin-cli):</source>
-        <translation>Užití (zastaralé, použij reddcoin-cli):</translation>
+        <source>Usage (deprecated, use madoocoin-cli):</source>
+        <translation>Užití (zastaralé, použij madoocoin-cli):</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 0)</source>
@@ -3290,12 +3290,12 @@ například: alertnotify=echo %%s | mail -s "Reddcoin Alert" admin@foo.com
         <translation>Chyba při načítání wallet.dat: peněženka je poškozená</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Reddcoin</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Reddcoinu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Madoocoin</source>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Madoocoinu</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Reddcoin to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Reddcoin, aby se operace dokončila</translation>
+        <source>Wallet needed to be rewritten: restart Madoocoin to complete</source>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Madoocoin, aby se operace dokončila</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

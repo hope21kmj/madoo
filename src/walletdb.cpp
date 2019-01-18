@@ -763,7 +763,7 @@ DBErrors CWalletDB::ZapWalletTx(CWallet* pwallet)
 void ThreadFlushWalletDB(const string& strFile)
 {
     // Make this thread recognisable as the wallet flushing thread
-    RenameThread("reddcoin-wallet");
+    RenameThread("madoocoin-wallet");
 
     static bool fOneThread;
     if (fOneThread)

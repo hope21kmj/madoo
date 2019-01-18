@@ -5,13 +5,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Reddcoin Core</source>
-        <translation>About Reddcoin Core</translation>
+        <source>About Madoocoin Core</source>
+        <translation>About Madoocoin Core</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Reddcoin Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Reddcoin Core&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Madoocoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Madoocoin Core&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+59"/>
@@ -41,8 +41,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>The Reddcoin Core developers</source>
-        <translation>The Reddcoin Core developers</translation>
+        <source>The Madoocoin Core developers</source>
+        <translation>The Madoocoin Core developers</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -135,13 +135,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your Reddcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your Reddcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <source>These are your Madoocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your Madoocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>These are your Reddcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>These are your Reddcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
+        <source>These are your Madoocoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>These are your Madoocoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -271,8 +271,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REDDCOINS&lt;/b&gt;!</source>
-        <translation>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR REDDCOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MADOOCOINS&lt;/b&gt;!</source>
+        <translation>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MADOOCOINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -298,8 +298,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Reddcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your reddcoins from being stolen by malware infecting your computer.</source>
-        <translation>Reddcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your reddcoins from being stolen by malware infecting your computer.</translation>
+        <source>Madoocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your madoocoins from being stolen by malware infecting your computer.</source>
+        <translation>Madoocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your madoocoins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Request payments (generates QR codes and reddcoin: URIs)</source>
-        <translation>Request payments (generates QR codes and reddcoin: URIs)</translation>
+        <source>Request payments (generates QR codes and madoocoin: URIs)</source>
+        <translation>Request payments (generates QR codes and madoocoin: URIs)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -402,8 +402,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Show information about Reddcoin</source>
-        <translation>Show information about Reddcoin</translation>
+        <source>Show information about Madoocoin</source>
+        <translation>Show information about Madoocoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -473,14 +473,14 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Open a reddcoin: URI or payment request</source>
-        <translation>Open a reddcoin: URI or payment request</translation>
+        <source>Open a madoocoin: URI or payment request</source>
+        <translation>Open a madoocoin: URI or payment request</translation>
     </message>
     <message>
         <location line="+166"/>
         <location line="+5"/>
-        <source>Reddcoin Core client</source>
-        <translation>Reddcoin Core client</translation>
+        <source>Madoocoin Core client</source>
+        <translation>Madoocoin Core client</translation>
     </message>
     <message>
         <location line="+157"/>
@@ -540,13 +540,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-784"/>
-        <source>Send coins to a Reddcoin address</source>
-        <translation>Send coins to a Reddcoin address</translation>
+        <source>Send coins to a Madoocoin address</source>
+        <translation>Send coins to a Madoocoin address</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Reddcoin</source>
-        <translation>Modify configuration options for Reddcoin</translation>
+        <source>Modify configuration options for Madoocoin</source>
+        <translation>Modify configuration options for Madoocoin</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -575,8 +575,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+437"/>
-        <source>Reddcoin</source>
-        <translation>Reddcoin</translation>
+        <source>Madoocoin</source>
+        <translation>Madoocoin</translation>
     </message>
     <message>
         <location line="-664"/>
@@ -606,13 +606,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign messages with your Reddcoin addresses to prove you own them</source>
-        <translation>Sign messages with your Reddcoin addresses to prove you own them</translation>
+        <source>Sign messages with your Madoocoin addresses to prove you own them</source>
+        <translation>Sign messages with your Madoocoin addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Reddcoin addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Reddcoin addresses</translation>
+        <source>Verify messages to ensure they were signed with specified Madoocoin addresses</source>
+        <translation>Verify messages to ensure they were signed with specified Madoocoin addresses</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -642,14 +642,14 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-419"/>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <location line="+202"/>
         <location line="+2"/>
-        <source>&amp;About Reddcoin Core</source>
-        <translation>&amp;About Reddcoin Core</translation>
+        <source>&amp;About Madoocoin Core</source>
+        <translation>&amp;About Madoocoin Core</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -668,15 +668,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Show the Reddcoin Core help message to get a list with possible Reddcoin command-line options</source>
-        <translation>Show the Reddcoin Core help message to get a list with possible Reddcoin command-line options</translation>
+        <source>Show the Madoocoin Core help message to get a list with possible Madoocoin command-line options</source>
+        <translation>Show the Madoocoin Core help message to get a list with possible Madoocoin command-line options</translation>
     </message>
     <message numerus="yes">
         <location line="+310"/>
-        <source>%n active connection(s) to Reddcoin network</source>
+        <source>%n active connection(s) to Madoocoin network</source>
         <translation>
-            <numerusform>%n active connection to Reddcoin network</numerusform>
-            <numerusform>%n active connections to Reddcoin network</numerusform>
+            <numerusform>%n active connection to Madoocoin network</numerusform>
+            <numerusform>%n active connections to Madoocoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -804,8 +804,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+447"/>
-        <source>A fatal error occurred. Reddcoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. Reddcoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. Madoocoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. Madoocoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1162,8 +1162,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Reddcoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Reddcoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Madoocoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid Madoocoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1208,13 +1208,13 @@ Address: %4
     <name>HelpMessageDialog</name>
     <message>
         <location filename="../forms/helpmessagedialog.ui" line="+19"/>
-        <source>Reddcoin Core - Command-line options</source>
-        <translation>Reddcoin Core - Command-line options</translation>
+        <source>Madoocoin Core - Command-line options</source>
+        <translation>Madoocoin Core - Command-line options</translation>
     </message>
     <message>
         <location filename="../utilitydialog.cpp" line="+24"/>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1271,18 +1271,18 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to Reddcoin Core.</source>
-        <translation>Welcome to Reddcoin Core.</translation>
+        <source>Welcome to Madoocoin Core.</source>
+        <translation>Welcome to Madoocoin Core.</translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where Reddcoin Core will store its data.</source>
-        <translation>As this is the first time the program is launched, you can choose where Reddcoin Core will store its data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Madoocoin Core will store its data.</source>
+        <translation>As this is the first time the program is launched, you can choose where Madoocoin Core will store its data.</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Reddcoin Core will download and store a copy of the Reddcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Reddcoin Core will download and store a copy of the Reddcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+        <source>Madoocoin Core will download and store a copy of the Madoocoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Madoocoin Core will download and store a copy of the Madoocoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1296,8 +1296,8 @@ Address: %4
     </message>
     <message>
         <location filename="../intro.cpp" line="+82"/>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1372,13 +1372,13 @@ Address: %4
     </message>
     <message>
         <location line="-125"/>
-        <source>Automatically start Reddcoin after logging in to the system.</source>
-        <translation>Automatically start Reddcoin after logging in to the system.</translation>
+        <source>Automatically start Madoocoin after logging in to the system.</source>
+        <translation>Automatically start Madoocoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Reddcoin on system login</source>
-        <translation>&amp;Start Reddcoin on system login</translation>
+        <source>&amp;Start Madoocoin on system login</source>
+        <translation>&amp;Start Madoocoin on system login</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1397,8 +1397,8 @@ Address: %4
     </message>
     <message>
         <location line="+160"/>
-        <source>Connect to the Reddcoin network through a SOCKS proxy.</source>
-        <translation>Connect to the Reddcoin network through a SOCKS proxy.</translation>
+        <source>Connect to the Madoocoin network through a SOCKS proxy.</source>
+        <translation>Connect to the Madoocoin network through a SOCKS proxy.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1473,8 +1473,8 @@ Address: %4
     </message>
     <message>
         <location line="+17"/>
-        <source>Automatically open the Reddcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Reddcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Madoocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Madoocoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1543,8 +1543,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Reddcoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Reddcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Madoocoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting Madoocoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1558,8 +1558,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Reddcoin addresses in the transaction list or not.</source>
-        <translation>Whether to show Reddcoin addresses in the transaction list or not.</translation>
+        <source>Whether to show Madoocoin addresses in the transaction list or not.</source>
+        <translation>Whether to show Madoocoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1628,8 +1628,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+263"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Reddcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Reddcoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Madoocoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Madoocoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-270"/>
@@ -1708,8 +1708,8 @@ Address: %4
     </message>
     <message>
         <location line="+1"/>
-        <source>URI can not be parsed! This can be caused by an invalid Reddcoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid Reddcoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Madoocoin address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid Madoocoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+96"/>
@@ -1728,8 +1728,8 @@ Address: %4
     </message>
     <message>
         <location line="-353"/>
-        <source>Cannot start reddcoin: click-to-pay handler</source>
-        <translation>Cannot start reddcoin: click-to-pay handler</translation>
+        <source>Cannot start madoocoin: click-to-pay handler</source>
+        <translation>Cannot start madoocoin: click-to-pay handler</translation>
     </message>
     <message>
         <location line="+58"/>
@@ -1816,8 +1816,8 @@ Address: %4
         <location filename="../bitcoin.cpp" line="+76"/>
         <location line="+7"/>
         <location line="+13"/>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <location line="-19"/>
@@ -1836,13 +1836,13 @@ Address: %4
     </message>
     <message>
         <location line="+60"/>
-        <source>Reddcoin Core didn&apos;t yet exit safely...</source>
-        <translation>Reddcoin Core didn&apos;t yet exit safely...</translation>
+        <source>Madoocoin Core didn&apos;t yet exit safely...</source>
+        <translation>Madoocoin Core didn&apos;t yet exit safely...</translation>
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+101"/>
-        <source>Enter a Reddcoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Enter a Reddcoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>Enter a Madoocoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Enter a Madoocoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
         <location line="+693"/>
@@ -2146,8 +2146,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Reddcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Reddcoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the Madoocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the Madoocoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -2156,8 +2156,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-35"/>
-        <source>Welcome to the Reddcoin RPC console.</source>
-        <translation>Welcome to the Reddcoin RPC console.</translation>
+        <source>Welcome to the Madoocoin RPC console.</source>
+        <translation>Welcome to the Madoocoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2256,8 +2256,8 @@ Address: %4
     <message>
         <location line="+14"/>
         <location line="+23"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Reddcoin network.</source>
-        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Reddcoin network.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Madoocoin network.</source>
+        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Madoocoin network.</translation>
     </message>
     <message>
         <location line="-7"/>
@@ -2652,8 +2652,8 @@ Address: %4
     </message>
     <message>
         <location line="+113"/>
-        <source>Warning: Invalid Reddcoin address</source>
-        <translation>Warning: Invalid Reddcoin address</translation>
+        <source>Warning: Invalid Madoocoin address</source>
+        <translation>Warning: Invalid Madoocoin address</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -2722,8 +2722,8 @@ Address: %4
     </message>
     <message>
         <location line="+33"/>
-        <source>The Reddcoin address to send the payment to (e.g. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</source>
-        <translation>The Reddcoin address to send the payment to (e.g. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</translation>
+        <source>The Madoocoin address to send the payment to (e.g. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</source>
+        <translation>The Madoocoin address to send the payment to (e.g. Rppgy8PHbBrknXfDmfEmqZXTKMR1yiwVtB)</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2754,8 +2754,8 @@ Address: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>A message that was attached to the reddcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Reddcoin network.</source>
-        <translation>A message that was attached to the reddcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Reddcoin network.</translation>
+        <source>A message that was attached to the madoocoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Madoocoin network.</source>
+        <translation>A message that was attached to the madoocoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Madoocoin network.</translation>
     </message>
     <message>
         <location line="+958"/>
@@ -2789,8 +2789,8 @@ Address: %4
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+52"/>
-        <source>Reddcoin Core is shutting down...</source>
-        <translation>Reddcoin Core is shutting down...</translation>
+        <source>Madoocoin Core is shutting down...</source>
+        <translation>Madoocoin Core is shutting down...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,8 +2817,8 @@ Address: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The Reddcoin address to sign the message with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>The Reddcoin address to sign the message with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>The Madoocoin address to sign the message with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>The Madoocoin address to sign the message with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2859,8 +2859,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Reddcoin address</source>
-        <translation>Sign the message to prove you own this Reddcoin address</translation>
+        <source>Sign the message to prove you own this Madoocoin address</source>
+        <translation>Sign the message to prove you own this Madoocoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2890,13 +2890,13 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The Reddcoin address the message was signed with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>The Reddcoin address the message was signed with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>The Madoocoin address the message was signed with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>The Madoocoin address the message was signed with (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
         <location line="+37"/>
-        <source>Verify the message to ensure it was signed with the specified Reddcoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified Reddcoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified Madoocoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified Madoocoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2915,8 +2915,8 @@ Address: %4
     </message>
     <message>
         <location line="+1"/>
-        <source>Enter a Reddcoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
-        <translation>Enter a Reddcoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
+        <source>Enter a Madoocoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</source>
+        <translation>Enter a Madoocoin address (e.g. RdXd6m9nZ6GsUA6ZXLJjiyuKeS3vvsS7NX)</translation>
     </message>
     <message>
         <location line="+83"/>
@@ -2989,8 +2989,8 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+33"/>
-        <source>Reddcoin Core</source>
-        <translation>Reddcoin Core</translation>
+        <source>Madoocoin Core</source>
+        <translation>Madoocoin Core</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2999,8 +2999,8 @@ Address: %4
     </message>
     <message>
         <location line="+1"/>
-        <source>The Reddcoin Core developers</source>
-        <translation>The Reddcoin Core developers</translation>
+        <source>The Madoocoin Core developers</source>
+        <translation>The Madoocoin Core developers</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3656,8 +3656,8 @@ Address: %4
     </message>
     <message>
         <location line="+15"/>
-        <source>Connect to JSON-RPC on &lt;port&gt; (default: 45443 or testnet: 55443)</source>
-        <translation>Connect to JSON-RPC on &lt;port&gt; (default: 45443 or testnet: 55443)</translation>
+        <source>Connect to JSON-RPC on &lt;port&gt; (default: 22443 or testnet: 35443)</source>
+        <translation>Connect to JSON-RPC on &lt;port&gt; (default: 22443 or testnet: 35443)</translation>
     </message>
     <message>
         <location line="+83"/>
@@ -3679,24 +3679,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=reddcoinrpc
+rpcuser=madoocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Madoocoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=reddcoinrpc
+rpcuser=madoocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Madoocoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3766,8 +3766,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 45443 or testnet: 55443)</source>
-        <translation>Listen for JSON-RPC connections on &lt;port&gt; (default: 45443 or testnet: 55443)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22443 or testnet: 35443)</source>
+        <translation>Listen for JSON-RPC connections on &lt;port&gt; (default: 22443 or testnet: 35443)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3781,8 +3781,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+9"/>
-        <source>Unable to bind to %s on this computer. Reddcoin Core is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. Reddcoin Core is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. Madoocoin Core is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. Madoocoin Core is probably already running.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3796,8 +3796,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Reddcoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Reddcoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Madoocoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Madoocoin will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4026,8 +4026,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+2"/>
-        <source>Initialization sanity check failed. Reddcoin Core is shutting down.</source>
-        <translation>Initialization sanity check failed. Reddcoin Core is shutting down.</translation>
+        <source>Initialization sanity check failed. Madoocoin Core is shutting down.</source>
+        <translation>Initialization sanity check failed. Madoocoin Core is shutting down.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4061,8 +4061,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>RPC SSL options: (see the wiki.reddcoin.com for SSL setup instructions)</source>
-        <translation>RPC SSL options: (see the wiki.reddcoin.com for SSL setup instructions)</translation>
+        <source>RPC SSL options: (see the wiki.madoocoin.com for SSL setup instructions)</source>
+        <translation>RPC SSL options: (see the wiki.madoocoin.com for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4096,13 +4096,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+6"/>
-        <source>Specify configuration file (default: reddcoin.conf)</source>
-        <translation>Specify configuration file (default: reddcoin.conf)</translation>
+        <source>Specify configuration file (default: madoocoin.conf)</source>
+        <translation>Specify configuration file (default: madoocoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: reddcoind.pid)</source>
-        <translation>Specify pid file (default: reddcoind.pid)</translation>
+        <source>Specify pid file (default: madoocoind.pid)</source>
+        <translation>Specify pid file (default: madoocoind.pid)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4171,8 +4171,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-156"/>
-        <source>Cannot obtain a lock on data directory %s. Reddcoin Core is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s. Reddcoin Core is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. Madoocoin Core is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s. Madoocoin Core is probably already running.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -4246,8 +4246,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+2"/>
-        <source>Listen for connections on &lt;port&gt; (default: 45444 or testnet: 55444)</source>
-        <translation>Listen for connections on &lt;port&gt; (default: 45444 or testnet: 55444)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 22444 or testnet: 35444)</source>
+        <translation>Listen for connections on &lt;port&gt; (default: 22444 or testnet: 35444)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -4296,13 +4296,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+2"/>
-        <source>Reddcoin Core Daemon</source>
-        <translation>Reddcoin Core Daemon</translation>
+        <source>Madoocoin Core Daemon</source>
+        <translation>Madoocoin Core Daemon</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Reddcoin Core RPC client version</source>
-        <translation>Reddcoin Core RPC client version</translation>
+        <source>Madoocoin Core RPC client version</source>
+        <translation>Madoocoin Core RPC client version</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4311,18 +4311,18 @@ for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+2"/>
-        <source>SSL options: (see the Reddcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL options: (see the Reddcoin Wiki for SSL setup instructions)</translation>
+        <source>SSL options: (see the Madoocoin Wiki for SSL setup instructions)</source>
+        <translation>SSL options: (see the Madoocoin Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Send command to Reddcoin Core</source>
-        <translation>Send command to Reddcoin Core</translation>
+        <source>Send command to Madoocoin Core</source>
+        <translation>Send command to Madoocoin Core</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to reddcoin Core</source>
-        <translation>Send command to reddcoin Core</translation>
+        <source>Send command to madoocoin Core</source>
+        <translation>Send command to madoocoin Core</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4366,8 +4366,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+7"/>
-        <source>Start Reddcoin Core Daemon</source>
-        <translation>Start Reddcoin Core Daemon</translation>
+        <source>Start Madoocoin Core Daemon</source>
+        <translation>Start Madoocoin Core Daemon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4391,8 +4391,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>Usage (deprecated, use reddcoin-cli):</source>
-        <translation>Usage (deprecated, use reddcoin-cli):</translation>
+        <source>Usage (deprecated, use madoocoin-cli):</source>
+        <translation>Usage (deprecated, use madoocoin-cli):</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4511,13 +4511,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Reddcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Reddcoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Reddcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Madoocoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of Madoocoin</translation>
     </message>
     <message>
         <location line="+119"/>
-        <source>Wallet needed to be rewritten: restart Reddcoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart Reddcoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart Madoocoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart Madoocoin to complete</translation>
     </message>
     <message>
         <location line="-121"/>

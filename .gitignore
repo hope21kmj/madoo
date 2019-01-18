@@ -1,11 +1,11 @@
 *.tar.gz
 
 *.exe
-src/reddcoin
-src/reddcoind
-src/reddcoin-cli
-src/test/test_reddcoin
-src/qt/test/test_reddcoin-qt
+src/madoocoin
+src/madoocoind
+src/madoocoin-cli
+src/test/test_madoocoin
+src/qt/test/test_madoocoin-qt
 
 Makefile.in
 aclocal.m4
@@ -51,12 +51,12 @@ src/qt/test/moc*.cpp
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-reddcoin-qt
-Reddcoin-Qt.app
+madoocoin-qt
+Madoocoin-Qt.app
 
 # Unit-tests
 Makefile.test
-reddcoin-qt_test
+madoocoin-qt_test
 
 # Resources cpp
 qrc_*.cpp

@@ -138,8 +138,8 @@
         <translation>Gadael rhaglen</translation>
     </message>
     <message>
-        <source>Show information about Reddcoin</source>
-        <translation>Dangos gwybodaeth am Reddcoin</translation>
+        <source>Show information about Madoocoin</source>
+        <translation>Dangos gwybodaeth am Madoocoin</translation>
     </message>
     <message>
         <source>&amp;Options...</source>

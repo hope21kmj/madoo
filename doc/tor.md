@@ -1,16 +1,16 @@
-TOR SUPPORT IN REDDCOIN
+TOR SUPPORT IN MADOOCOIN
 ======================
 
-It is possible to run Reddcoin as a Tor hidden service, and connect to such services.
+It is possible to run Madoocoin as a Tor hidden service, and connect to such services.
 
 The following directions assume you have a Tor proxy running on port 9050. Many distributions default to having a SOCKS proxy listening on port 9050, but others may not. In particular, the Tor Browser Bundle defaults to listening on a random port. See [Tor Project FAQ:TBBSocksPort](https://www.torproject.org/docs/faq.html.en#TBBSocksPort) for how to properly
 configure Tor.
 
 
-1. Run reddcoin behind a Tor proxy
+1. Run madoocoin behind a Tor proxy
 ---------------------------------
 
-The first step is running Reddcoin behind a Tor proxy. This will already make all
+The first step is running Madoocoin behind a Tor proxy. This will already make all
 outgoing connections be anonymized, but more is possible.
 
 	-socks=5        SOCKS5 supports connecting-to-hostname, which can be used instead
@@ -36,27 +36,27 @@ outgoing connections be anonymized, but more is possible.
 
 In a typical situation, this suffices to run behind a Tor proxy:
 
-	./reddcoin -proxy=127.0.0.1:9050
+	./madoocoin -proxy=127.0.0.1:9050
 
 
-2. Run a reddcoin hidden server
+2. Run a madoocoin hidden server
 ------------------------------
 
 If you configure your Tor system accordingly, it is possible to make your node also
 reachable from the Tor network. Add these lines to your /etc/tor/torrc (or equivalent
 config file):
 
-	HiddenServiceDir /var/lib/tor/reddcoin-service/
-	HiddenServicePort 45444 127.0.0.1:45444
-	HiddenServicePort 55444 127.0.0.1:55444
+	HiddenServiceDir /var/lib/tor/madoocoin-service/
+	HiddenServicePort 22444 127.0.0.1:22444
+	HiddenServicePort 35444 127.0.0.1:35444
 
 The directory can be different of course, but (both) port numbers should be equal to
-your reddcoind's P2P listen port (45444 by default).
+your madoocoind's P2P listen port (22444 by default).
 
-	-externalip=X   You can tell reddcoin about its publicly reachable address using
+	-externalip=X   You can tell madoocoin about its publicly reachable address using
 	                this option, and this can be a .onion address. Given the above
 	                configuration, you can find your onion address in
-	                /var/lib/tor/reddcoin-service/hostname. Onion addresses are given
+	                /var/lib/tor/madoocoin-service/hostname. Onion addresses are given
 	                preference for your node to advertize itself with, for connections
 	                coming from unroutable addresses (such as 127.0.0.1, where the
 	                Tor proxy typically runs).
@@ -73,18 +73,18 @@ your reddcoind's P2P listen port (45444 by default).
 
 In a typical situation, where you're only reachable via Tor, this should suffice:
 
-	./reddcoind -proxy=127.0.0.1:9050 -externalip=57qr3yd1nyntf5k.onion -listen
+	./madoocoind -proxy=127.0.0.1:9050 -externalip=57qr3yd1nyntf5k.onion -listen
 
 (obviously, replace the Onion address with your own). If you don't care too much
 about hiding your node, and want to be reachable on IPv4 as well, additionally
 specify:
 
-	./reddcoind ... -discover
+	./madoocoind ... -discover
 
-and open port 45444 on your firewall (or use -upnp).
+and open port 22444 on your firewall (or use -upnp).
 
 If you only want to use Tor to reach onion addresses, but not use it as a proxy
 for normal IPv4/IPv6 communication, use:
 
-	./reddcoin -onion=127.0.0.1:9050 -externalip=57qr3yd1nyntf5k.onion -discover
+	./madoocoin -onion=127.0.0.1:9050 -externalip=57qr3yd1nyntf5k.onion -discover
 

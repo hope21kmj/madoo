@@ -1,22 +1,22 @@
-Reddcoin Core integration/staging tree
+Madoocoin Core integration/staging tree
 =====================================
 
-https://www.reddcoin.com
+https://www.madoocoin.com
 
 Copyright (c) 2009-2018 Bitcoin Core Developers
 
-Copyright (c) 2014-2018 Reddcoin Core Developers
+Copyright (c) 2014-2018 Madoocoin Core Developers
 
-What is Reddcoin?
+What is Madoocoin?
 ----------------
 
-Reddcoin is an experimental new digital currency that enables instant payments to
-anyone, anywhere in the world. Reddcoin uses peer-to-peer technology to operate
+Madoocoin is an experimental new digital currency that enables instant payments to
+anyone, anywhere in the world. Madoocoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Reddcoin Core is the name of open source
+out collectively by the network. Madoocoin Core is the name of open source
 software which enables the use of this currency.
 
-Reddcoin first started in January 2014 as a variant of Litecoin using Scrypt as
+Madoocoin first started in January 2014 as a variant of Litecoin using Scrypt as
 the Proof-of-Work (PoW) hash algorithm.
  - 1 minute block target
  - 100,000 coins per block
@@ -25,14 +25,14 @@ the Proof-of-Work (PoW) hash algorithm.
  - difficulty retarget: every block using Kimoto's gravity well
 
 
-On 2nd August 2014 at block 260,800 Reddcoin transitioned to its own original Proof-of-Stake-Velocity (PoSV)
+On 2nd August 2014 at block 260,800 Madoocoin transitioned to its own original Proof-of-Stake-Velocity (PoSV)
 algorithm which replaced Proof-of-Work (PoW).
  - 1 minute block target
  - just under 27 billion mined in PoW phase
  - 5% annual interest in PoSV phase
  - difficulty retarget: every block using Kimoto's gravity well
- - white paper: http://www.reddcoin.com/papers/PoSV.pdf
- - FAQs paper: http://www.reddcoin.com/papers/PoSV_FAQ.pdf
+ - white paper: http://www.madoocoin.com/papers/PoSV.pdf
+ - FAQs paper: http://www.madoocoin.com/papers/PoSV_FAQ.pdf
 
 On December 2015 work commenced on porting directly from Bitcoin v0.9 whilst maintaining the original functionality.
  - allowing for better maintainabilty
@@ -40,12 +40,12 @@ On December 2015 work commenced on porting directly from Bitcoin v0.9 whilst mai
  - improved code consistency and sharing
 
 For more information, as well as an immediately useable, binary version of
-the Reddcoin Core software, see http://www.reddcoin.com
+the Madoocoin Core software, see http://www.madoocoin.com
 
 License
 -------
 
-Reddcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Madoocoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
@@ -54,7 +54,7 @@ Development process
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the Reddcoin
+If it is a simple/trivial/non-controversial change, then one of the Madoocoin
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
@@ -66,7 +66,7 @@ match the project's coding conventions (see [doc/coding.md](doc/coding.md)) or a
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/reddcoin-project/reddcoin/tags) are created
+completely stable. [Tags](https://github.com/madoocoin-project/madoocoin/tags) are created
 regularly to indicate new official, stable release versions of Bitcoin.
 
 Testing
@@ -127,7 +127,7 @@ to see it.
 
 **testnet and regtest modes**
 
-Run with the -testnet option to run with "play reddcoins" on the test network, if you
+Run with the -testnet option to run with "play madoocoins" on the test network, if you
 are testing multi-machine code that needs to operate across the internet.
 
 If you are testing something that can run on one machine, run with the -regtest option.
@@ -136,7 +136,7 @@ that run in -regest mode.
 
 **DEBUG_LOCKORDER**
 
-Reddcoin Core is a multithreaded application, and deadlocks or other multithreading bugs
+Madoocoin Core is a multithreaded application, and deadlocks or other multithreading bugs
 can be very difficult to track down. Compiling with -DDEBUG_LOCKORDER (configure
 CXXFLAGS="-DDEBUG_LOCKORDER -g") inserts run-time checks to keep track of what locks
 are held, and adds warning to the debug.log file if inconsistencies are detected.

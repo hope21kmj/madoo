@@ -13,11 +13,11 @@ endif
 bin_PROGRAMS =
 
 if BUILD_BITCOIND
-  bin_PROGRAMS += reddcoind
+  bin_PROGRAMS += madoocoind
 endif
 
 if BUILD_BITCOIN_CLI
-  bin_PROGRAMS += reddcoin-cli
+  bin_PROGRAMS += madoocoin-cli
 endif
 
 SUBDIRS = . $(BUILD_QT) $(BUILD_TEST)
@@ -155,36 +155,36 @@ libbitcoin_cli_a_SOURCES = \
 nodist_libbitcoin_common_a_SOURCES = $(top_srcdir)/src/obj/build.h
 #
 
-# reddcoind binary #
-reddcoind_LDADD = \
+# madoocoind binary #
+madoocoind_LDADD = \
   libbitcoin_server.a \
   libbitcoin_cli.a \
   libbitcoin_common.a \
   $(LIBLEVELDB) \
   $(LIBMEMENV)
 if ENABLE_WALLET
-reddcoind_LDADD += libbitcoin_wallet.a libbitcoin_server_wallet.a
+madoocoind_LDADD += libbitcoin_wallet.a libbitcoin_server_wallet.a
 endif
-reddcoind_SOURCES = bitcoind.cpp
+madoocoind_SOURCES = bitcoind.cpp
 #
 
 if TARGET_WINDOWS
-reddcoind_SOURCES += bitcoind-res.rc
+madoocoind_SOURCES += bitcoind-res.rc
 endif
 
 AM_CPPFLAGS += $(BDB_CPPFLAGS)
-reddcoind_LDADD += $(BOOST_LIBS) $(BDB_LIBS)
+madoocoind_LDADD += $(BOOST_LIBS) $(BDB_LIBS)
 
-# reddcoin-cli binary #
-reddcoin_cli_LDADD = \
+# madoocoin-cli binary #
+madoocoin_cli_LDADD = \
   libbitcoin_cli.a \
   libbitcoin_common.a \
   $(BOOST_LIBS)
-reddcoin_cli_SOURCES = bitcoin-cli.cpp
+madoocoin_cli_SOURCES = bitcoin-cli.cpp
 #
 
 if TARGET_WINDOWS
-reddcoin_cli_SOURCES += bitcoin-cli-res.rc
+madoocoin_cli_SOURCES += bitcoin-cli-res.rc
 endif
 
 # NOTE: This dependency is not strictly necessary, but without it make may try to build both in parallel, which breaks the LevelDB build system in a race
