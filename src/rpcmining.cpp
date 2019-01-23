@@ -23,7 +23,7 @@ using namespace std;
 
 #define printf OutputDebugStringF
 
-
+#ifdef ENABLE_WALLET
 // Key used by getwork miners.
 // Allocated in InitRPCMining, free'd in ShutdownRPCMining
 static CReserveKey* pMiningKey = NULL;
@@ -44,11 +44,19 @@ void ShutdownRPCMining()
 
     delete pMiningKey; pMiningKey = NULL;
 }
-
+#else
+void InitRPCMining()
+{
+}
+void ShutdownRPCMining()
+{
+}
+#endif
 
 // Return average network hashes per second based on the last 'lookup' blocks,
 // or from the last difficulty change if 'lookup' is nonpositive.
 // If 'height' is nonnegative, compute the estimate at the time when a given block was found.
+#ifdef ENABLE_WALLET
 Value GetNetworkHashPS(int lookup, int height) {
     CBlockIndex *pb = chainActive.Tip();
 
@@ -107,7 +115,7 @@ Value getnetworkhashps(const Array& params, bool fHelp)
     return GetNetworkHashPS(params.size() > 0 ? params[0].get_int() : 1, params.size() > 1 ? params[1].get_int() : -1);
 }
 
-#ifdef ENABLE_WALLET
+
 Value getgenerate(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() != 0)
@@ -195,7 +203,7 @@ Value gethashespersec(const Array& params, bool fHelp)
         return (int64_t)0;
     return (int64_t)dHashesPerSec;
 }
-#endif
+
 
 
 Value getmininginfo(const Array& params, bool fHelp)
@@ -252,7 +260,7 @@ Value getmininginfo(const Array& params, bool fHelp)
 }
 
 
-#ifdef ENABLE_WALLET
+
 // PoSV
 Value getstakinginfo(const Array& params, bool fHelp)
 {
@@ -554,7 +562,7 @@ Value getworkex(const Array& params, bool fHelp)
     }
 }
 */
-
+#ifdef ENABLE_WALLET
 Value getblocktemplate(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() > 1)
@@ -784,3 +792,4 @@ Value submitblock(const Array& params, bool fHelp)
 
     return Value::null;
 }
+#endif

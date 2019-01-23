@@ -16,7 +16,7 @@
 //
 // MadoocoinMiner
 //
-
+#ifdef ENABLE_WALLET
 int static FormatHashBlocks(void* pbuffer, unsigned int len)
 {
     unsigned char* pdata = (unsigned char*)pbuffer;
@@ -76,12 +76,13 @@ public:
             LogPrintf("   setDependsOn %s\n", hash.ToString());
     }
 };
-
+#endif
 
 uint64_t nLastBlockTx = 0;
 uint64_t nLastBlockSize = 0;
 int64_t nLastCoinStakeSearchInterval = 0;
 
+#ifdef ENABLE_WALLET
 // We want to sort transactions by priority and fee, so:
 typedef boost::tuple<double, double, const CTransaction*> TxPriority;
 class TxPriorityCompare
@@ -449,7 +450,7 @@ void FormatHashBuffers(CBlock* pblock, char* pmidstate, char* pdata, char* phash
     memcpy(phash1, &tmp.hash1, 64);
 }
 
-#ifdef ENABLE_WALLET
+
 //////////////////////////////////////////////////////////////////////////////
 //
 // Internal miner

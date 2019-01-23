@@ -1121,7 +1121,7 @@ bool AppInit2(boost::thread_group& threadGroup)
     LogPrintf("setKeyPool.size() = %u\n",      pwalletMain ? pwalletMain->setKeyPool.size() : 0);
     LogPrintf("mapWallet.size() = %u\n",       pwalletMain ? pwalletMain->mapWallet.size() : 0);
     LogPrintf("mapAddressBook.size() = %u\n",  pwalletMain ? pwalletMain->mapAddressBook.size() : 0);
-#endif
+
 
     StartNode(threadGroup);
     // InitRPCMining is needed here so getwork/getblocktemplate in the GUI debug console works properly.
@@ -1129,7 +1129,7 @@ bool AppInit2(boost::thread_group& threadGroup)
     if (fServer)
         StartRPCThreads();
 
-#ifdef ENABLE_WALLET
+
     // Generate coins in the background
     if (pwalletMain)
         GenerateMadoocoins(GetBoolArg("-staking", true), pwalletMain, GetArg("-genproclimit", 1));
